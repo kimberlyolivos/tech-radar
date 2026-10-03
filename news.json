@@ -1,0 +1,86 @@
+{
+ "updated": "2026-10-03T05:36:24.921467+00:00",
+ "status": [
+  {
+   "source": "Hacker News",
+   "ok": false,
+   "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+   "source": "TechCrunch",
+   "ok": false,
+   "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+   "source": "The Verge",
+   "ok": false,
+   "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+   "source": "Ars Technica",
+   "ok": false,
+   "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+   "source": "Wired",
+   "ok": false,
+   "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+   "source": "MIT Technology Review",
+   "ok": false,
+   "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+   "source": "Engadget",
+   "ok": false,
+   "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+   "source": "9to5Google",
+   "ok": false,
+   "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+   "source": "9to5Mac",
+   "ok": false,
+   "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+   "source": "Hugging Face Blog",
+   "ok": false,
+   "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+   "source": "OpenAI",
+   "ok": false,
+   "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+   "source": "Google DeepMind",
+   "ok": false,
+   "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+   "source": "Google AI",
+   "ok": false,
+   "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+   "source": "VentureBeat AI",
+   "ok": false,
+   "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+   "source": "MarkTechPost",
+   "ok": false,
+   "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+   "source": "Import AI",
+   "ok": false,
+   "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  }
+ ],
+ "items": []
+}
