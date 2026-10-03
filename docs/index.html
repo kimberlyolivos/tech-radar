@@ -84,7 +84,7 @@ function render() {
   list.innerHTML = html;
 }
 
-fetch("news.json").then(r => r.json()).then(data => {
+fetch("news.json", { cache: "no-store" }).then(r => r.json()).then(data => {
   state.items = data.items;
   document.getElementById("meta").textContent =
     `${data.items.length} noticias · actualizado ${new Date(data.updated).toLocaleString("es-PE")}`;
