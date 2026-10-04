@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T14:47:45.096940+00:00",
+ "updated": "2026-10-04T16:35:42.494196+00:00",
  "status": [
   {
    "source": "Hacker News",
@@ -9,7 +9,7 @@
   {
    "source": "TechCrunch",
    "ok": true,
-   "new": 20
+   "new": 6
   },
   {
    "source": "The Verge",
@@ -19,17 +19,17 @@
   {
    "source": "Ars Technica",
    "ok": true,
-   "new": 20
+   "new": 2
   },
   {
    "source": "Wired",
    "ok": true,
-   "new": 30
+   "new": 8
   },
   {
    "source": "MIT Technology Review",
    "ok": true,
-   "new": 10
+   "new": 0
   },
   {
    "source": "Engadget",
@@ -39,32 +39,32 @@
   {
    "source": "9to5Google",
    "ok": true,
-   "new": 30
+   "new": 4
   },
   {
    "source": "9to5Mac",
    "ok": true,
-   "new": 30
+   "new": 8
   },
   {
    "source": "Hugging Face Blog",
    "ok": true,
-   "new": 30
+   "new": 19
   },
   {
    "source": "OpenAI",
    "ok": true,
-   "new": 30
+   "new": 0
   },
   {
    "source": "Google DeepMind",
    "ok": true,
-   "new": 30
+   "new": 25
   },
   {
    "source": "Google AI",
    "ok": true,
-   "new": 20
+   "new": 17
   },
   {
    "source": "VentureBeat AI",
@@ -73,8 +73,8 @@
   },
   {
    "source": "MarkTechPost",
-   "ok": false,
-   "error": "<unknown>:81:2: mismatched tag"
+   "ok": true,
+   "new": 10
   },
   {
    "source": "Import AI",
@@ -83,6 +83,753 @@
   }
  ],
  "items": [
+  {
+   "id": "d55a75f3f113a364",
+   "title": "Trump announces an AI czar for his newly created 'Super Intelligence Force'",
+   "url": "https://www.engadget.com/2276762/trump-announces-an-ai-czar-for-his-newly-created-super-intelligence-force/",
+   "summary": "That's really what it's called and there's actually someone in charge of it.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-10-04T16:29:26+00:00"
+  },
+  {
+   "id": "688458194177c6d7",
+   "title": "Caffè Corretto",
+   "url": "https://en.wikipedia.org/wiki/Caff%C3%A8_corretto",
+   "summary": "Article URL: https://en.wikipedia.org/wiki/Caff%C3%A8_corretto Comments URL: https://news.ycombinator.com/item?id=49955232 Points: 3 # Comments: 0",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-10-04T16:17:58+00:00"
+  },
+  {
+   "id": "cb4cee0e9eb9f5f8",
+   "title": "Well, if AI said it, it must be true",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+   "summary": "New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics rules. The now-former Lt. governor has been making the media rounds trying to clear his name. But…",
+   "source": "The Verge",
+   "category": "general",
+   "published": "2026-10-04T16:16:04+00:00"
+  },
+  {
+   "id": "968a51f5095d19e8",
+   "title": "How to disable or restrict your iPhone's Apple Intelligence features",
+   "url": "https://www.engadget.com/2274326/how-to-disable-restrict-iphone-apple-intelligence-features/",
+   "summary": "You have a lot of control over AI on your iPhone.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-10-04T16:15:00+00:00"
+  },
+  {
+   "id": "cafdfc2c960e648b",
+   "title": "TechCrunch Mobility: Reining in robotaxis",
+   "url": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
+   "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+   "source": "TechCrunch",
+   "category": "general",
+   "published": "2026-10-04T16:05:00+00:00"
+  },
+  {
+   "id": "bd196b2cb6cc984e",
+   "title": "Here's what you should do if only one of your AirPods is working",
+   "url": "https://www.engadget.com/2274084/what-should-do-only-one-airpod-working/",
+   "summary": "If only one AirPod isn't working, you have several options for troubleshooting and getting your audio back.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-10-04T15:45:00+00:00"
+  },
+  {
+   "id": "43b0ee8883681051",
+   "title": "Car is a smartphone on wheels. Here's who's listening",
+   "url": "https://automatictransmission.khoury.northeastern.edu/",
+   "summary": "Article URL: https://automatictransmission.khoury.northeastern.edu/ Comments URL: https://news.ycombinator.com/item?id=49954882 Points: 49 # Comments: 18",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-10-04T15:43:14+00:00"
+  },
+  {
+   "id": "9eb41457d9efb273",
+   "title": "RuneScape's Position on Gen AI",
+   "url": "https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai/",
+   "summary": "Article URL: https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai/ Comments URL: https://news.ycombinator.com/item?id=49954745 Points: 10 # Comments: 13",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-10-04T15:29:14+00:00"
+  },
+  {
+   "id": "2522603f908b6c56",
+   "title": "Apple weekend deals: AirPods Pro 3 $179, MacBook Air $200 off, AirTag 2, Prime Day HomeKit discounts, more",
+   "url": "https://9to5mac.com/2026/10/04/apple-weekend-deals-macbook-discounts/",
+   "summary": "Update 10/4: Amazon just dropped AirPods Pro 3 down to $179, delivering one of the lowest prices ever. Amazon is also now delivering almost all M5 MacBook Air models at $200 off the list price. You’ll find the very first cash discounts a wide range of Apple’s brand new…",
+   "source": "9to5Mac",
+   "category": "general",
+   "published": "2026-10-04T15:26:14+00:00"
+  },
+  {
+   "id": "d5a8ffd2dd505a15",
+   "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+   "summary": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they couldn't top Stardust, the top-rated human-made bot. On Friday,…",
+   "source": "The Verge",
+   "category": "general",
+   "published": "2026-10-04T15:21:59+00:00"
+  },
+  {
+   "id": "4bc93c4661cbbf57",
+   "title": "John Ternus is taking a more ‘hands-on’ role in Apple’s design teams as CEO: report",
+   "url": "https://9to5mac.com/2026/10/04/john-ternus-is-taking-a-more-hands-on-role-in-apples-design-teams-as-ceo-report/",
+   "summary": "Since Jony Ive’s departure from Apple in 2019, the company hasn’t had much of a true design lead. For a while, former COO Jeff Williams was in charge of design , until his departure last year. Since then, CEO John Ternus has taken a significant interest in both of Apple’s…",
+   "source": "9to5Mac",
+   "category": "general",
+   "published": "2026-10-04T15:15:15+00:00"
+  },
+  {
+   "id": "8aaa4b741173b837",
+   "title": "Trump unveils his new Super Intelligence Force",
+   "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+   "summary": "This new task force is Trump's latest response to the debate over AI safety.",
+   "source": "TechCrunch",
+   "category": "general",
+   "published": "2026-10-04T15:15:10+00:00"
+  },
+  {
+   "id": "26763ceb35d08f61",
+   "title": "Do gaming routers really make a difference?",
+   "url": "https://www.engadget.com/2274051/do-gaming-routers-make-difference/",
+   "summary": "Gaming routers have fancy designs and a few special features, but they can't fix every problem with your network setup.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-10-04T15:15:00+00:00"
+  },
+  {
+   "id": "a493c4e6a21f8f8d",
+   "title": "This toolless modular lever-action wallet is the coolest I’ve stuck to my phone",
+   "url": "https://www.theverge.com/gadgets/1004360/this-toolless-modular-lever-action-wallet-is-the-coolest-ive-stuck-to-my-phone",
+   "summary": "This toolless modular lever-action wallet is the coolest I've stuck to my phone. Remember when I tested the ultra-thin and convenient OhSnap Snap Grip Stand and liked it so much I bought my own? Now, OhSnap has a magnetic lever-action card wallet that can stack with that stand.…",
+   "source": "The Verge",
+   "category": "general",
+   "published": "2026-10-04T15:00:00+00:00"
+  },
+  {
+   "id": "6cebceae7732a629",
+   "title": "The pros and cons of enabling Wi-Fi calling",
+   "url": "https://www.engadget.com/2273956/wifi-calling-pros-cons/",
+   "summary": "Wi-Fi calling can help a lot if you're in an area with a weak cellular connection, but you should know the drawbacks before jumping in.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-10-04T14:45:00+00:00"
+  },
+  {
+   "id": "829da3b87aa28f70",
+   "title": "How getting rid of some USB gadgets can improve your bad Wi-Fi",
+   "url": "https://www.engadget.com/2273916/removing-some-usb-gadgets-improve-wifi/",
+   "summary": "A bit of decluttering can go a long way toward improving your Wi-Fi.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-10-04T14:15:00+00:00"
+  },
+  {
+   "id": "e1cba6afdd883acb",
+   "title": "Redesigned MacBook Pro with OLED to feature ‘significantly lighter’ design: report",
+   "url": "https://9to5mac.com/2026/10/04/apple-macbook-pro-redesign-to-be-much-lighter-report/",
+   "summary": "Apple’s major MacBook Pro overhaul is just around the corner, and should debut within a month or so. It’ll be the first touchscreen MacBook, as well as the first with Tandem OLED. Beyond that, though, the new MacBooks should be ‘significantly’ lighter than their predecessors,…",
+   "source": "9to5Mac",
+   "category": "general",
+   "published": "2026-10-04T14:11:01+00:00"
+  },
+  {
+   "id": "c44e251f3f1acdb8",
+   "title": "Google Pixel at 10: Successes, failures, and fun along the way [Video]",
+   "url": "https://9to5google.com/2026/10/04/google-pixel-at-10-successes-failures-and-fun-along-the-way-video/",
+   "summary": "A decade of Pixel, it’s only in the last few years that we have seen Google settle into a rhythm with smartphones. It hasn’t been smooth sailing, though. more…",
+   "source": "9to5Google",
+   "category": "general",
+   "published": "2026-10-04T14:00:00+00:00"
+  },
+  {
+   "id": "490a836969133578",
+   "title": "Why you shouldn't sync your phone to a rental car",
+   "url": "https://www.engadget.com/2273912/why-shouldnt-sync-phone-to-rental-car/",
+   "summary": "Unless you pay attention, your contacts could end up forever stored in the car.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-10-04T13:45:00+00:00"
+  },
+  {
+   "id": "390ba8db6ea84e3e",
+   "title": "Internet speeds vs. bandwidth: What's the difference?",
+   "url": "https://www.engadget.com/2273852/internet-speeds-vs-bandwidth-differences/",
+   "summary": "Knowing your internet speed is important, but bandwidth is another important metric that many people overlook.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-10-04T13:30:00+00:00"
+  },
+  {
+   "id": "a6c85e4639e8e7b3",
+   "title": "What is infill in 3D printing and is it necessary?",
+   "url": "https://www.engadget.com/2273797/what-is-infill-3d-printing/",
+   "summary": "The infill settings you use for your 3D prints can make or break them - literally. Let's talk about what infill does and how you should use it.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-10-04T13:15:00+00:00"
+  },
+  {
+   "id": "092e4e92b7a74d4c",
+   "title": "The AirPods Pro 3 are a fantastic deal at $179",
+   "url": "https://www.theverge.com/gadgets/1004242/airpods-pro-3-amazon-october-prime-day-deal-sale",
+   "summary": "It’s been a while since we’ve seen a good discount on the Apple AirPods Pro 3, but like the latest iPad Mini and the M5 MacBook Airs, a great one is happening now for October Prime Day. You can snag a pair of the noise-canceling earbuds that include five ear tip sizes, live…",
+   "source": "The Verge",
+   "category": "general",
+   "published": "2026-10-04T13:00:00+00:00"
+  },
+  {
+   "id": "b9df86b78d83480c",
+   "title": "Google Pixel turns 10 years old today, and we’re still talking about it",
+   "url": "https://9to5google.com/2026/10/04/google-pixel-10-years-old/",
+   "summary": "10 years ago today, Google launched the first Pixel smartphone and, at the time, teased it by saying we’d still be talking about it years later. And, yeah, we still are, and this is a Google project that shows no signs of slowing down. 9to5Google Weekender by Ben Schoon is a…",
+   "source": "9to5Google",
+   "category": "general",
+   "published": "2026-10-04T13:00:00+00:00"
+  },
+  {
+   "id": "bca476fd34631d9d",
+   "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+   "url": "https://github.com/Niko1221/Strata",
+   "summary": "Article URL: https://github.com/Niko1221/Strata Comments URL: https://news.ycombinator.com/item?id=49953495 Points: 246 # Comments: 124",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-10-04T12:51:53+00:00"
+  },
+  {
+   "id": "ecd2f6e8395e02fb",
+   "title": "Customizing your Samsung Galaxy phone is a bit easier with One UI 9",
+   "url": "https://www.engadget.com/2273796/samsung-galaxy-one-ui-9-customization-updates/",
+   "summary": "Lots of new options just became available to Samsung phones with the latest update. Customize your Quick Panel, Edge Panel and much more.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-10-04T12:45:00+00:00"
+  },
+  {
+   "id": "9025532b34a0b486",
+   "title": "The MacBook Air M5 is $200 off for the first time in months",
+   "url": "https://www.theverge.com/gadgets/1000832/macbook-air-m5-amazon-prime-big-deal-sale",
+   "summary": "Amazon’s October Prime Day has effectively chopped off Apple’s June price increases. Usually $1,299, the 13-inch MacBook Air with the M5 chip and 512GB of storage is on sale for $1,099 at Amazon. That’s a more palatable price for a machine that’s significantly faster than…",
+   "source": "The Verge",
+   "category": "general",
+   "published": "2026-10-04T12:34:01+00:00"
+  },
+  {
+   "id": "2f66a93a4b1a6449",
+   "title": "The iPad Mini is slightly cheaper again during Prime Day",
+   "url": "https://www.theverge.com/gadgets/1000323/apple-ipad-mini-amazon-prime-big-deal-days-sale",
+   "summary": "Apple bumped up prices on several of its devices in June, and we haven’t seen a good discount on the iPad Mini since. Just ahead of Amazon’s October Prime Big Deals Days, however, both Wi-Fi only and cellular-connected models are $100 off. The Wi-Fi version with 128GB of…",
+   "source": "The Verge",
+   "category": "general",
+   "published": "2026-10-04T12:31:50+00:00"
+  },
+  {
+   "id": "ca0a0a2d4eaf71ba",
+   "title": "How to use Android's Motion Assist feature to help with motion sickness",
+   "url": "https://www.engadget.com/2273792/how-to-use-android-motion-assist-feature-help-with-sickness/",
+   "summary": "Google's Motion Assist uses moving shapes on your Android's screen to help combat motion sickness. Here's how it works and how to enable it.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-10-04T12:30:00+00:00"
+  },
+  {
+   "id": "320f04bac40ef091",
+   "title": "How much does DDR5 RAM speed matter for gaming?",
+   "url": "https://www.engadget.com/2273791/how-much-ddr5-ram-speed-matters-for-gaming/",
+   "summary": "Wondering whether DDR5 speed impacts your gaming performance? Dive into how memory bandwidth and latency influence frame rates and overall gameplay.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-10-04T12:15:00+00:00"
+  },
+  {
+   "id": "9dbd12aff7f15f41",
+   "title": "The forgotten Chromebook that started it all",
+   "url": "https://www.theverge.com/podcast/1001215/the-forgotten-chromebook-that-started-it-all",
+   "summary": "Google didn't even call the first Chromebook a \"Chromebook.\" The Cr-48 had no interesting design and no bright logos - it wasn't even designed to be a product you could buy. Instead, it was a portal to a big new idea about computers. In this week's episode of Version History,…",
+   "source": "The Verge",
+   "category": "general",
+   "published": "2026-10-04T12:00:00+00:00"
+  },
+  {
+   "id": "1fe32bb8deffa11c",
+   "title": "The rise, fall, and rise of portable MP3 players",
+   "url": "https://www.theverge.com/column/1003566/history-apple-ipod-mp3-music-player",
+   "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the collapse and the resurgence of the portable media player, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for…",
+   "source": "The Verge",
+   "category": "general",
+   "published": "2026-10-04T12:00:00+00:00"
+  },
+  {
+   "id": "5066a8faed65721d",
+   "title": "Amazon’s colorful and sturdy new Kindles",
+   "url": "https://www.theverge.com/tech/1004199/amazon-kindle-openai-dots-witcher-3-remastered-bose-wired-headphones",
+   "summary": "Hi, friends! Welcome to Installer No. 146, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, it's October already?, and also you can read all the old editions at the Installer homepage.) This week, I'm wishing I could do Walmart potato…",
+   "source": "The Verge",
+   "category": "general",
+   "published": "2026-10-04T12:00:00+00:00"
+  },
+  {
+   "id": "373590dedb56a61a",
+   "title": "Rejection Sensitivity in Gifted and Twice-Exceptional Children",
+   "url": "https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and",
+   "summary": "Article URL: https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and Comments URL: https://news.ycombinator.com/item?id=49953116 Points: 80 # Comments: 37",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-10-04T11:58:47+00:00"
+  },
+  {
+   "id": "4594e165665932df",
+   "title": "All hail electrification. But let’s talk about the hard part.",
+   "url": "https://arstechnica.com/science/2026/10/all-hail-electrification-but-lets-talk-about-the-hard-part/",
+   "summary": "The IEA and climate negotiators want to set a target for shifting the economy to run on electricity.",
+   "source": "Ars Technica",
+   "category": "general",
+   "published": "2026-10-04T11:05:53+00:00"
+  },
+  {
+   "id": "87d999a4b9828078",
+   "title": "15 Best Office Chairs of 2026—We Tested 70 to Pick Them",
+   "url": "https://www.wired.com/gallery/best-office-chairs/",
+   "summary": "Upgrade your WFH setup and work in style with these comfy, WIRED-tested seats.",
+   "source": "Wired",
+   "category": "general",
+   "published": "2026-10-04T11:03:00+00:00"
+  },
+  {
+   "id": "4f7f4716409b76c4",
+   "title": "The Best Gifts Under $25 for Everyone on Your List (2026)",
+   "url": "https://www.wired.com/story/best-gifts-under-25-2026/",
+   "summary": "We found genuinely good presents for home cooks, teens, coffee lovers, and the person who already has everything.",
+   "source": "Wired",
+   "category": "general",
+   "published": "2026-10-04T11:00:00+00:00"
+  },
+  {
+   "id": "a4b0f91fee5d4517",
+   "title": "The Best Online Gift Cards and Digital Gift Ideas (2026)",
+   "url": "https://www.wired.com/story/gift-cards-and-digital-gift-ideas/",
+   "summary": "Forget the wrapping paper and shipping. Go digital this year with subscriptions, ebooks, apps, and more.",
+   "source": "Wired",
+   "category": "general",
+   "published": "2026-10-04T10:30:00+00:00"
+  },
+  {
+   "id": "09c04a400138f23f",
+   "title": "Meta Glasses Nova (Gen 3) Review: Not Much New",
+   "url": "https://www.wired.com/review/meta-glasses-gen-3/",
+   "summary": "Meta and Ray-Ban’s new smart glasses have slightly better batteries and mics. And yes, they still have cameras.",
+   "source": "Wired",
+   "category": "general",
+   "published": "2026-10-04T10:30:00+00:00"
+  },
+  {
+   "id": "b0c342db6fb9de89",
+   "title": "AirPods Pro 3 hit low $179 price just weeks after adding new features",
+   "url": "https://9to5mac.com/2026/10/04/airpods-pro-3-prime-day-deal/",
+   "summary": "We are touching down to let folks know the Amazon fall Prime Day sale is getting a head start today – AirPods Pro 3 have now dropped down to one of the lowest prices to date at $179 shipped. more…",
+   "source": "9to5Mac",
+   "category": "general",
+   "published": "2026-10-04T10:24:01+00:00"
+  },
+  {
+   "id": "5021eb4ecd13dd61",
+   "title": "Rural Data Centers Are in for a Big Federal Tax Break",
+   "url": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
+   "summary": "Under the One Big Beautiful Bill Act, data center projects in rural areas could be eligible for major tax benefits starting next year. Some hyperscalers do not seem eager to take the free cash.",
+   "source": "Wired",
+   "category": "general",
+   "published": "2026-10-04T10:00:00+00:00"
+  },
+  {
+   "id": "0af6a69ae804d9b7",
+   "title": "Keurig Alta First-Look: No More Plastic K-Cups",
+   "url": "https://www.wired.com/story/keurig-alta-coffee-brewer/",
+   "summary": "Keurig is ready to ditch the K-Cup with a compostable and plastic- and aluminum-free coffee pod, but the price is steep.",
+   "source": "Wired",
+   "category": "general",
+   "published": "2026-10-04T09:30:00+00:00"
+  },
+  {
+   "id": "567a67be41501d5c",
+   "title": "Show HN: AI search for every photo and every frame of video on macOS",
+   "url": "https://github.com/allenv0/SCM",
+   "summary": "Article URL: https://github.com/allenv0/SCM Comments URL: https://news.ycombinator.com/item?id=49952111 Points: 62 # Comments: 37",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-10-04T09:24:52+00:00"
+  },
+  {
+   "id": "061014b44bca9a6e",
+   "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
+   "url": "https://gamehistory.org/5k-magazines/",
+   "summary": "Article URL: https://gamehistory.org/5k-magazines/ Comments URL: https://news.ycombinator.com/item?id=49952029 Points: 73 # Comments: 12",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-10-04T09:07:11+00:00"
+  },
+  {
+   "id": "7ad22207f57aeea1",
+   "title": "Elusive ‘Geoneutrinos’ Are Building a New Map of Earth’s Volatile Interior",
+   "url": "https://www.wired.com/story/elusive-geoneutrinos-are-building-a-new-map-of-earths-volatile-interior/",
+   "summary": "A global network of detectors are reporting some of the most substantial measurements yet of neutrinos created deep underground by the radioactive elements that power our planet’s tectonic activity.",
+   "source": "Wired",
+   "category": "general",
+   "published": "2026-10-04T09:00:00+00:00"
+  },
+  {
+   "id": "778a42f69a53697e",
+   "title": "What's the Future for Pure Math Research in the Age of AI?",
+   "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
+   "summary": "Article URL: https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=49951641 Points: 23 # Comments: 3",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-10-04T07:53:45+00:00"
+  },
+  {
+   "id": "2c5221cda539b3b5",
+   "title": "Google Research Moves Federated Learning Into TEEs: Gboard Now Trains With Externally Verifiable Differential Privacy",
+   "url": "https://www.marktechpost.com/2026/10/04/google-research-moves-federated-learning-into-tees-gboard-now-trains-with-externally-verifiable-differential-privacy/",
+   "summary": "Google Research has unveiled a federated learning system that moves gradient computation from phones into attested server-side TEEs. Access policies are published to Sigstore's Rekor log and the binaries are reproducibly buildable, so central differential privacy can be checked…",
+   "source": "MarkTechPost",
+   "category": "ia",
+   "published": "2026-10-04T07:29:59+00:00"
+  },
+  {
+   "id": "38be749b24d516b7",
+   "title": "Aleph Alpha Releases Kolibri: A 78.1B Open-Weight English-German MoE Model With Only 3.46B Active Parameters",
+   "url": "https://www.marktechpost.com/2026/10/04/aleph-alpha-releases-kolibri-a-78-1b-open-weight-english-german-moe-model-with-only-3-46b-active-parameters/",
+   "summary": "Aleph Alpha has released Kolibri, a 78.1B-parameter English-German Mixture-of-Experts model that activates only 3.46B parameters per token. It has a 1M-token context and per-request reasoning effort, and its Apache 2.0 FP8 weights run on a single B200 or H200. The post Aleph…",
+   "source": "MarkTechPost",
+   "category": "ia",
+   "published": "2026-10-04T07:01:04+00:00"
+  },
+  {
+   "id": "f896e86c6f5d174f",
+   "title": "Emitting metadata early makes building/checking Rust up to twice as fast",
+   "url": "https://github.com/PowderworksCode/headstart",
+   "summary": "Article URL: https://github.com/PowderworksCode/headstart Comments URL: https://news.ycombinator.com/item?id=49951218 Points: 66 # Comments: 12",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-10-04T06:26:57+00:00"
+  },
+  {
+   "id": "8a80da1cc21e70e6",
+   "title": "DeepSeek Harness v0.2 Brings Official Desktop Apps to Its Open-Source Agent Harness",
+   "url": "https://www.marktechpost.com/2026/10/03/deepseek-harness-v0-2-brings-official-desktop-apps-to-its-open-source-agent-harness/",
+   "summary": "DeepSeek has released official macOS and Windows desktop apps for DeepSeek Harness v0.2, its MIT-licensed agent harness. The preview adds a plugin manager, file and code-change review, and scheduled Automation Tasks. It also supports non-DeepSeek models through…",
+   "source": "MarkTechPost",
+   "category": "ia",
+   "published": "2026-10-04T04:49:42+00:00"
+  },
+  {
+   "id": "6419cdc1f601fb95",
+   "title": "Why don't more developers “use the platform”?",
+   "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
+   "summary": "Article URL: https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/ Comments URL: https://news.ycombinator.com/item?id=49950554 Points: 224 # Comments: 221",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-10-04T04:10:47+00:00"
+  },
+  {
+   "id": "fb9af1d81b348295",
+   "title": "We're working on a new RuneScape MMO",
+   "url": "https://play.runescape.com/4",
+   "summary": "Article URL: https://play.runescape.com/4 Comments URL: https://news.ycombinator.com/item?id=49949588 Points: 132 # Comments: 71",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-10-04T01:12:22+00:00"
+  },
+  {
+   "id": "ee1071d66dee3580",
+   "title": "Tell HN: Bob Cringely has died",
+   "url": "https://news.ycombinator.com/item?id=49949438",
+   "summary": "I heard from a friend of the family that Bob passed away in his sleep early Saturday. Very sad news. Bob, who's real name was Mark Stevens, was an early employee of Apple and was best known for his PBS documentaries, especially \"Triumph of the Nerds\". He will be missed.…",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-10-04T00:50:52+00:00"
+  },
+  {
+   "id": "0bda0d67321777a4",
+   "title": "What are amplifiers for and how important are they to your sound system's quality?",
+   "url": "https://www.engadget.com/2273783/amplifier-what-for-how-important-for-sound-system-quality/",
+   "summary": "If you're looking into a new sound system, you may be wondering if you need an amplifier as well. Here's how to tell and why amps even matter.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-10-04T00:30:00+00:00"
+  },
+  {
+   "id": "5a3f1f4a82c5b0a8",
+   "title": "We're going to need default hard budget caps on pretty much everything",
+   "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+   "summary": "Article URL: https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/ Comments URL: https://news.ycombinator.com/item?id=49949235 Points: 541 # Comments: 279",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-10-04T00:20:16+00:00"
+  },
+  {
+   "id": "319496b2d6586be0",
+   "title": "Inside NVIDIA’s IsaacTeleop: From Hand and Controller Tracking to Robot Actions with the Graph-Based Retargeting Engine",
+   "url": "https://www.marktechpost.com/2026/10/03/inside-nvidias-isaacteleop-from-hand-and-controller-tracking-to-robot-actions-with-the-graph-based-retargeting-engine/",
+   "summary": "Learn how NVIDIA IsaacTeleop turns XR hand tracking and motion controller input into robot commands using a pure Python retargeting engine and NumPy. The post Inside NVIDIA’s IsaacTeleop: From Hand and Controller Tracking to Robot Actions with the Graph-Based Retargeting Engine…",
+   "source": "MarkTechPost",
+   "category": "ia",
+   "published": "2026-10-04T00:19:38+00:00"
+  },
+  {
+   "id": "20b33043f1b9e9d8",
+   "title": "How has Apple's Mac Studio changed over the years?",
+   "url": "https://www.engadget.com/2273779/apple-mac-studio-how-changed-over-years/",
+   "summary": "Explore how Apple's Mac Studio has evolved, with internal upgrades, performance gains, and subtle design changes shaping each new generation of the desktop.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-10-04T00:00:00+00:00"
+  },
+  {
+   "id": "9c198fa386b71964",
+   "title": "What's the difference between battery capacity and battery life?",
+   "url": "https://www.engadget.com/2273775/battery-capacity-vs-life-differences/",
+   "summary": "Battery capacity often plays into battery life, but an impressive capacity stat doesn't translate to excellent battery life.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-10-03T23:45:00+00:00"
+  },
+  {
+   "id": "f76e52efc6ceb34b",
+   "title": "Why is this the only pink MacBook available right now?",
+   "url": "https://www.engadget.com/2273771/why-only-pink-macbook-available-right-now/",
+   "summary": "Is it too much to ask for some more colorful laptops?",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-10-03T23:30:00+00:00"
+  },
+  {
+   "id": "a71d3c41a5fd3dfa",
+   "title": "This little-known app lets you display song lyrics on Apple CarPlay",
+   "url": "https://www.engadget.com/2273743/little-known-app-display-song-lyrics-apple-carplay/",
+   "summary": "You can host your own episode of Carpool Karaoke with the Dynamic Lyrics CarPlay widget.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-10-03T23:00:00+00:00"
+  },
+  {
+   "id": "89764eae00994ca8",
+   "title": "The Agent Said It Was Done. The Database Disagreed.",
+   "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+   "summary": "",
+   "source": "Hugging Face Blog",
+   "category": "ia",
+   "published": "2026-10-03T22:56:48+00:00"
+  },
+  {
+   "id": "01307cea99f40055",
+   "title": "Why this ancient cable still connects to modern TVs with a simple adapter",
+   "url": "https://www.engadget.com/2273698/dvi-cable-why-still-connects-modern-tv-simple-adapter/",
+   "summary": "DVI to HDMI adapters are a cheap and simple way to connect up old hardware, but don't expect miracles.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-10-03T22:45:00+00:00"
+  },
+  {
+   "id": "af41a017667540c3",
+   "title": "How to improve your laptop's webcam quality",
+   "url": "https://www.engadget.com/2273684/how-to-improve-laptop-webcam-quality/",
+   "summary": "Your laptop's webcam is not usually an impressive piece of hardware, but you can help make up for its shortcomings.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-10-03T22:30:00+00:00"
+  },
+  {
+   "id": "941acff810a8fd08",
+   "title": "Online retailers that don't support digital wallets are losing Gen Z customers",
+   "url": "https://www.engadget.com/2273492/online-retailers-dont-support-digital-wallets-losing-gen-z-customers/",
+   "summary": "A study suggests younger people are more likely to walk away if their preferred payment option isn't supported.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-10-03T22:00:00+00:00"
+  },
+  {
+   "id": "65143b465eb81ca4",
+   "title": "Gemini app limiting what models free & AI Plus users can access, AI Pro adding Deep Think",
+   "url": "https://9to5google.com/2026/10/03/gemini-model-limits-oct-26/",
+   "summary": "Following the compute-based usage change in May, Google will soon introduce limits on which Gemini models free users and AI Plus subscribers can access. more…",
+   "source": "9to5Google",
+   "category": "general",
+   "published": "2026-10-03T20:57:47+00:00"
+  },
+  {
+   "id": "fba68aebf2d4d751",
+   "title": "Reasons I didn't become an EMT, ranked",
+   "url": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
+   "summary": "Article URL: https://ben.stolovitz.com/posts/reasons-not-emt-ranked/ Comments URL: https://news.ycombinator.com/item?id=49947631 Points: 199 # Comments: 85",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-10-03T20:49:15+00:00"
+  },
+  {
+   "id": "8e9e87a9e35135f7",
+   "title": "Milt Windler, NASA flight director who helped save Apollo 13, dies at 94",
+   "url": "https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94/",
+   "summary": "\"...we were making history.\"",
+   "source": "Ars Technica",
+   "category": "general",
+   "published": "2026-10-03T19:45:17+00:00"
+  },
+  {
+   "id": "5e6b42a5fd54a1d0",
+   "title": "Watch F1 on Apple TV tonight, free for everyone in the US",
+   "url": "https://9to5mac.com/2026/10/03/watch-f1-on-apple-tv-tonight-free-bahrain-gp/",
+   "summary": "The Bahrain Grand Prix is streaming for free on Apple TV this weekend, subscription not required. Rather amusingly, the location of the Bahrain Grand Prix is actually in Sepang, Malaysia. Usually, F1 on Apple TV requires a paid subscription. But this weekend, it’s free for…",
+   "source": "9to5Mac",
+   "category": "general",
+   "published": "2026-10-03T19:44:04+00:00"
+  },
+  {
+   "id": "7b804092fff7efeb",
+   "title": "We want you to build the next Git platform on Cloudflare",
+   "url": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
+   "summary": "Article URL: https://blog.cloudflare.com/next-git-platform-on-cloudflare/ Comments URL: https://news.ycombinator.com/item?id=49947051 Points: 182 # Comments: 156",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-10-03T19:33:16+00:00"
+  },
+  {
+   "id": "7d68a08898b4a0bb",
+   "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
+   "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+   "summary": "A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant.",
+   "source": "TechCrunch",
+   "category": "general",
+   "published": "2026-10-03T19:33:15+00:00"
+  },
+  {
+   "id": "f98ddb3c98b9e9f3",
+   "title": "Google’s original Pixel Fold was the right idea years ahead of its time",
+   "url": "https://9to5google.com/2026/10/03/googles-original-pixel-fold-was-the-right-idea-years-ahead-of-its-time/",
+   "summary": "Google’s original Pixel Fold was inherently flawed but also fundamentally way better than I expected and, thanks to recent arrivals, also way ahead of its time. more…",
+   "source": "9to5Google",
+   "category": "general",
+   "published": "2026-10-03T19:30:00+00:00"
+  },
+  {
+   "id": "0ebafe21c81722cd",
+   "title": "Indie App Spotlight: ‘HEVCut’ helps you trim your photo library without deleting anything",
+   "url": "https://9to5mac.com/2026/10/03/indie-app-spotlight-hevcut-iphone-photo-storage/",
+   "summary": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . Everyone has issues with iPhone storage. Even if you use iCloud, Apple has a large…",
+   "source": "9to5Mac",
+   "category": "general",
+   "published": "2026-10-03T19:30:00+00:00"
+  },
+  {
+   "id": "016ae4161352f283",
+   "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+   "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+   "summary": "Article URL: https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU Comments URL: https://news.ycombinator.com/item?id=49946895 Points: 383 # Comments: 67",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-10-03T19:14:48+00:00"
+  },
+  {
+   "id": "28adfc25e620de56",
+   "title": "Here’s why I upgraded from the Apple Watch Series 10 to Series 12",
+   "url": "https://9to5mac.com/2026/10/03/heres-why-i-upgraded-from-the-apple-watch-series-10-to-series-12/",
+   "summary": "I’m someone who doesn’t often upgrade my Apple Watch right when a new one comes out. The Apple Watch Series 10 I owned prior was only purchased this January, despite initially coming out in September 2024. That said, Apple Watch Series 12 was a highly compelling purchase,…",
+   "source": "9to5Mac",
+   "category": "general",
+   "published": "2026-10-03T18:48:22+00:00"
+  },
+  {
+   "id": "f8ba7ef564870c95",
+   "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+   "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+   "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+   "source": "TechCrunch",
+   "category": "general",
+   "published": "2026-10-03T18:43:57+00:00"
+  },
+  {
+   "id": "c6ffb2f15ccedb33",
+   "title": "What Meta got right with Muse",
+   "url": "https://metedata.substack.com/p/what-meta-got-right-with-muse",
+   "summary": "Article URL: https://metedata.substack.com/p/what-meta-got-right-with-muse Comments URL: https://news.ycombinator.com/item?id=49946526 Points: 94 # Comments: 127",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-10-03T18:23:48+00:00"
+  },
+  {
+   "id": "49f39eb866552197",
+   "title": "Hole Punch: Sling your spaceship around gravitational fields",
+   "url": "https://notoriousbfg.com/hole-punch/",
+   "summary": "Article URL: https://notoriousbfg.com/hole-punch/ Comments URL: https://news.ycombinator.com/item?id=49946393 Points: 328 # Comments: 81",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-10-03T18:06:45+00:00"
+  },
+  {
+   "id": "549bdd288f9a970c",
+   "title": "Treachery in the Rodin Museum 3D scan verdict",
+   "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
+   "summary": "Article URL: https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict Comments URL: https://news.ycombinator.com/item?id=49946355 Points: 262 # Comments: 135",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-10-03T18:01:27+00:00"
+  },
+  {
+   "id": "c8ca51977d2506a3",
+   "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
+   "url": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
+   "summary": "The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception.",
+   "source": "Wired",
+   "category": "general",
+   "published": "2026-10-03T18:00:00+00:00"
+  },
+  {
+   "id": "260f481c2a62124d",
+   "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+   "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+   "summary": "https://archive.ph/TyDPf Comments URL: https://news.ycombinator.com/item?id=49946228 Points: 267 # Comments: 422",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-10-03T17:44:29+00:00"
+  },
+  {
+   "id": "f1c80105d2f2cb39",
+   "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+   "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+   "summary": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: \"The Outlook and Future of the REX…",
+   "source": "The Verge",
+   "category": "general",
+   "published": "2026-10-03T16:49:10+00:00"
+  },
+  {
+   "id": "1dbfb4856dd718fb",
+   "title": "Here’s everything we know so far about Apple’s next entry-level iPad: A19 chip, more",
+   "url": "https://9to5mac.com/2026/10/03/apples-next-ipad-a19-details-release-date/",
+   "summary": "Apple’s current iPad, the A16 model, has gone untouched for well over a year. It remains the only device in Apple’s core product lineup without support for Apple Intelligence. Rumors had swirled for quite some time about an A18 model coming this year . Now, it’s sounding like…",
+   "source": "9to5Mac",
+   "category": "general",
+   "published": "2026-10-03T16:36:23+00:00"
+  },
+  {
+   "id": "a17db24aed38baa7",
+   "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+   "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+   "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+   "source": "TechCrunch",
+   "category": "general",
+   "published": "2026-10-03T16:30:01+00:00"
+  },
+  {
+   "id": "7c974d415cd4edb5",
+   "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
+   "url": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
+   "summary": "Bitchat has become largely unavailable in India as a result of the restrictions.",
+   "source": "TechCrunch",
+   "category": "general",
+   "published": "2026-10-03T15:02:01+00:00"
+  },
   {
    "id": "559aae7bd25c5841",
    "title": "Vessev built an electric ferry that almost flies",
@@ -363,6 +1110,42 @@
    "published": "2026-10-03T08:40:17+00:00"
   },
   {
+   "id": "0a712c5edc61e1cb",
+   "title": "Meta, OpenAI and Uber Just Taught AI Agents to Talk First. What About When to Stay Quiet?",
+   "url": "https://www.marktechpost.com/2026/10/03/meta-openai-and-uber-just-taught-ai-agents-to-talk-first-what-about-when-to-stay-quiet/",
+   "summary": "TL;DR: Meta’s Muse, OpenAI’s Dots and Uber’s driver assistant share one bet: the agent speaks first. That moves the hard problem from what to answer to when to interrupt, on which channel, and with what offer. Classic ML and new decision models can solve it. Three launches, one…",
+   "source": "MarkTechPost",
+   "category": "ia",
+   "published": "2026-10-03T07:05:11+00:00"
+  },
+  {
+   "id": "280bb1c2cb0ab5b2",
+   "title": "IBM Brings Bob to Self-Hosted and Air-Gapped Environments: Agentic Software Development Without Moving Your Code",
+   "url": "https://www.marktechpost.com/2026/10/02/ibm-brings-bob-to-self-hosted-and-air-gapped-environments/",
+   "summary": "IBM has made a self-hosted deployment of IBM Bob, its agentic software development platform, generally available. Enterprises can now run Bob on premises, in private or sovereign clouds, and in air-gapped networks. They bring their own model: NVIDIA Nemotron or Poolside Laguna…",
+   "source": "MarkTechPost",
+   "category": "ia",
+   "published": "2026-10-03T06:55:15+00:00"
+  },
+  {
+   "id": "eb7e341877c2e5bd",
+   "title": "Prime Intellect Launches Prime Inference: Serverless and Reserved Serving for Frontier Open Models",
+   "url": "https://www.marktechpost.com/2026/10/02/prime-intellect-launches-prime-inference-serverless-and-reserved-serving-for-frontier-open-models/",
+   "summary": "Prime Intellect has launched Prime Inference, an OpenAI-compatible platform for serving frontier open models on NVIDIA Blackwell. Its GLM-5.3 deployment uses Dynamo, vLLM and NVFP4 KV compression to serve 66 sessions per prefill group at 101 tok/s per user. The post Prime…",
+   "source": "MarkTechPost",
+   "category": "ia",
+   "published": "2026-10-03T05:37:18+00:00"
+  },
+  {
+   "id": "ae39c209ec245a9c",
+   "title": "Microsoft AI Releases MAI-Transcribe-2-Streaming: #1 Real-Time Speech-to-Text Model on Artificial Analysis",
+   "url": "https://www.marktechpost.com/2026/10/02/microsoft-ai-releases-mai-transcribe-2-streaming-1-real-time-speech-to-text-model-on-artificial-analysis/",
+   "summary": "Microsoft AI has released MAI-Transcribe-2-Streaming, its first real-time speech-to-text model. It ranks #1 of 38 models on Artificial Analysis AA-WER Streaming. It scores 2.5% WER at 0.13s on final transcripts and 2.5% at 0.12s on first partials. It covers 60 languages with…",
+   "source": "MarkTechPost",
+   "category": "ia",
+   "published": "2026-10-03T05:09:53+00:00"
+  },
+  {
    "id": "c5bd906bf18dd292",
    "title": "Hoka Coupon Codes: 30% Off in October 2026",
    "url": "https://www.wired.com/story/hoka-coupon-code/",
@@ -424,6 +1207,15 @@
    "source": "Hacker News",
    "category": "general",
    "published": "2026-10-03T04:53:57+00:00"
+  },
+  {
+   "id": "d53a0950754c0fe7",
+   "title": "Decision AI Models Explained: TypeSafe Jev vs Fastino GLiDE, GLiNER2.5-Decide and Open-Source Competitors",
+   "url": "https://www.marktechpost.com/2026/10/02/decision-ai-models-explained-typesafe-jev-vs-fastino-glide-gliner2-5-decide-and-open-source-competitors/",
+   "summary": "Decision AI models answer typed questions with calibrated probabilities instead of generated text. TypeSafe's Jev costs $0.042 per million input tokens and returns responses in 70 to 500 milliseconds. We break down how it works and its benchmarks, then compare it with Fastino's…",
+   "source": "MarkTechPost",
+   "category": "ia",
+   "published": "2026-10-03T03:31:15+00:00"
   },
   {
    "id": "101e89adb12303ae",
@@ -865,6 +1657,15 @@
    "source": "TechCrunch",
    "category": "general",
    "published": "2026-10-02T18:11:27+00:00"
+  },
+  {
+   "id": "68db507e2dfb7a77",
+   "title": "NVIDIA Announces DGX Spark 64GB: A 1-PetaFLOP Grace Blackwell Desktop for Local AI Agents, Fine-Tuning, and Inference",
+   "url": "https://www.marktechpost.com/2026/10/02/nvidia-announces-dgx-spark-64gb-a-1-petaflop-grace-blackwell-desktop-for-local-ai-agents-fine-tuning-and-inference/",
+   "summary": "NVIDIA announced a new 64GB configuration of DGX Spark — from Acer, ASUS, Dell, Gigabyte, HP and MSI — its GB10-powered desktop AI system. It gives developers a way to start with one system for local models and agents, then cluster two 64GB units for 128GB of memory across the…",
+   "source": "MarkTechPost",
+   "category": "ia",
+   "published": "2026-10-02T18:04:56+00:00"
   },
   {
    "id": "c307e47225512228",
