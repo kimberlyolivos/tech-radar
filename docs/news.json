@@ -1,30 +1,30 @@
 {
- "updated": "2026-10-10T17:04:44.088873+00:00",
+ "updated": "2026-10-11T17:28:09.207644+00:00",
  "status": [
   {
    "source": "Hacker News",
    "ok": true,
-   "new": 19
+   "new": 20
   },
   {
    "source": "TechCrunch",
    "ok": true,
-   "new": 10
+   "new": 8
   },
   {
    "source": "The Verge",
    "ok": true,
-   "new": 10
+   "new": 9
   },
   {
    "source": "Ars Technica",
    "ok": true,
-   "new": 12
+   "new": 1
   },
   {
    "source": "Wired",
    "ok": true,
-   "new": 14
+   "new": 6
   },
   {
    "source": "MIT Technology Review",
@@ -34,17 +34,17 @@
   {
    "source": "Engadget",
    "ok": true,
-   "new": 19
+   "new": 20
   },
   {
    "source": "9to5Google",
    "ok": true,
-   "new": 8
+   "new": 4
   },
   {
    "source": "9to5Mac",
    "ok": true,
-   "new": 11
+   "new": 9
   },
   {
    "source": "Hugging Face Blog",
@@ -54,7 +54,7 @@
   {
    "source": "OpenAI",
    "ok": true,
-   "new": 1
+   "new": 0
   },
   {
    "source": "Google DeepMind",
@@ -74,7 +74,7 @@
   {
    "source": "MarkTechPost",
    "ok": true,
-   "new": 4
+   "new": 3
   },
   {
    "source": "Import AI",
@@ -83,6 +83,708 @@
   }
  ],
  "items": [
+  {
+   "id": "84006f222afa45a5",
+   "title": "Kuxiu’s D5 charger now comes in Burgundy to perfectly match your iPhone 18 Pro",
+   "url": "https://9to5mac.com/2026/10/11/kuxius-d5-charger-now-comes-in-burgundy-to-perfectly-match-your-iphone-18-pro/",
+   "summary": "Last year, Kuxiu was the first to make chargers that perfectly match the Cosmic Orange iPhone. They released their 3-in-1 X40 turbo and their S4 Solid State battery pack. They both matched the orange color so well that it seemed as if they were 1st-party accessories. This year,…",
+   "source": "9to5Mac",
+   "category": "general",
+   "published": "2026-10-11T17:03:34+00:00"
+  },
+  {
+   "id": "7b1ce21a368ee9be",
+   "title": "Why hasn't SpaceX, worth $2T, paid this Bay Area chef the $70K it owes him?",
+   "url": "https://www.sfchronicle.com/food/restaurants/article/spacex-stateline-napa-late-payment-22463945.php",
+   "summary": "Article URL: https://www.sfchronicle.com/food/restaurants/article/spacex-stateline-napa-late-payment-22463945.php Comments URL: https://news.ycombinator.com/item?id=50045288 Points: 14 # Comments: 6",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-10-11T16:59:24+00:00"
+  },
+  {
+   "id": "73a85a6212778b68",
+   "title": "macOS 27 brings three key upgrades to my favorite feature",
+   "url": "https://9to5mac.com/2026/10/11/macos-27-brings-three-key-upgrades-to-iphone-mirroring/",
+   "summary": "I use iPhone Mirroring every day to quickly access my iPhone directly from my Mac, and it’s even better this year. iOS 27 and macOS 27 Golden Gate were released last month, bringing three key updates to iPhone Mirroring. Here’s everything new. more…",
+   "source": "9to5Mac",
+   "category": "general",
+   "published": "2026-10-11T16:54:26+00:00"
+  },
+  {
+   "id": "70688ea0e7a560a0",
+   "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+   "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+   "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+   "source": "TechCrunch",
+   "category": "general",
+   "published": "2026-10-11T16:52:33+00:00"
+  },
+  {
+   "id": "00bc60481e3ddd61",
+   "title": "Why strong magnets can hinder the iPhone's rear-facing camera",
+   "url": "https://www.engadget.com/2281130/why-strong-magnetic-hinder-iphone-rear-facing-camera/",
+   "summary": "Magnetic accessories can be handy, but make sure they're not interfering with your camera.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-10-11T16:45:00+00:00"
+  },
+  {
+   "id": "631a6921cbe69579",
+   "title": "Apple's smart home hub will reportedly be called HomeView",
+   "url": "https://www.engadget.com/2283275/apples-smart-home-hub-will-reportedly-be-called-homeview/",
+   "summary": "Bloomberg reported that the HomeView device will start shipping in November.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-10-11T16:28:47+00:00"
+  },
+  {
+   "id": "fc9a095e08cf4dfe",
+   "title": "Apple Home's new AI summaries for security cameras cost more than you'd think",
+   "url": "https://www.engadget.com/2281077/apple-home-ai-summaries-security-camera-prices/",
+   "summary": "If you have a lot of cameras in your home, get ready to pay for more expensive iCloud+ plans.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-10-11T16:15:00+00:00"
+  },
+  {
+   "id": "c38903921242bd05",
+   "title": "The Corporate Happiness Treadmill and the Case for Doing Less",
+   "url": "https://0xff.nu/corp-burnout/",
+   "summary": "Article URL: https://0xff.nu/corp-burnout/ Comments URL: https://news.ycombinator.com/item?id=50044733 Points: 25 # Comments: 11",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-10-11T16:06:02+00:00"
+  },
+  {
+   "id": "6f8358166e6c31de",
+   "title": "TechCrunch Mobility: A roadblock clears for self-driving trucks",
+   "url": "https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks/",
+   "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+   "source": "TechCrunch",
+   "category": "general",
+   "published": "2026-10-11T16:02:00+00:00"
+  },
+  {
+   "id": "39baae462692e59f",
+   "title": "Dawn Myers is making it easier to style, detangle, and care for curly hair",
+   "url": "https://techcrunch.com/2026/10/11/dawn-myers-is-making-it-easier-to-style-detangle-and-care-for-curly-hair/",
+   "summary": "Richualist is one of TechCrunch's Battlefield 200 Companies!",
+   "source": "TechCrunch",
+   "category": "general",
+   "published": "2026-10-11T16:00:00+00:00"
+  },
+  {
+   "id": "c8011c5c0533f509",
+   "title": "Here's how long your Google Pixel phone will get software updates",
+   "url": "https://www.engadget.com/2281041/how-long-google-pixel-phone-get-software-updates/",
+   "summary": "Your Google Pixel phone has a set lifetime of support based on when it first went on sale. After that, you have few options for using it securely.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-10-11T15:45:00+00:00"
+  },
+  {
+   "id": "bba8d46d59629061",
+   "title": "NASA dumped over 800GB of Artemis II data online",
+   "url": "https://www.theverge.com/science/1009379/nasa-800gb-artemis-ii-data",
+   "summary": "If you thought you'd seen all there is to see from the Artemis II mission, you're wrong. This week NASA posted over 800GB worth of science data, images, and videos on the Artemis II: Sights & Sounds of Science site. The archive includes over 11,000 photos and videos, over 8.5…",
+   "source": "The Verge",
+   "category": "general",
+   "published": "2026-10-11T15:34:40+00:00"
+  },
+  {
+   "id": "9699b3a927995608",
+   "title": "How I reverse engineered a commercial spatial audio effect",
+   "url": "http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/",
+   "summary": "Article URL: http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/ Comments URL: https://news.ycombinator.com/item?id=50044272 Points: 21 # Comments: 8",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-10-11T15:21:58+00:00"
+  },
+  {
+   "id": "0aa56ca5c3906304",
+   "title": "George A. Romero’s Season of the Witch is a slow-burn feminist occult drama",
+   "url": "https://www.theverge.com/entertainment/1009346/george-a-romero-season-of-the-witch-feminist-horror-review",
+   "summary": "George A. Romero is obviously best known as the father of the modern zombie movie. But between inventing the genre with Night of the Living Dead and his outbreak horror, The Crazies, Romero made two much lesser-known films: There's Always Vanilla, which I'll admit I've never…",
+   "source": "The Verge",
+   "category": "general",
+   "published": "2026-10-11T15:15:00+00:00"
+  },
+  {
+   "id": "c40d77fa5bc95ce3",
+   "title": "The hidden features every Waze user should know about",
+   "url": "https://www.engadget.com/2280999/waze-hidden-features-users-should-know/",
+   "summary": "There are a load of features tucked away in Google's 'other' mapping app.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-10-11T15:15:00+00:00"
+  },
+  {
+   "id": "46b3d6fae0f3245f",
+   "title": "Efferon wants to eradicate the devastating toll of pediatric sepsis",
+   "url": "https://techcrunch.com/2026/10/11/efferon-wants-to-eradicate-the-devastating-toll-of-pediatric-sepsis/",
+   "summary": "This Battlefield 200 startup has developed blood-purification tech to save children",
+   "source": "TechCrunch",
+   "category": "general",
+   "published": "2026-10-11T15:00:00+00:00"
+  },
+  {
+   "id": "74e21801c5521c71",
+   "title": "Report: HomePod mini 2 to release on October 30 with these upgrades",
+   "url": "https://9to5mac.com/2026/10/11/apple-homepod-mini-2-release-date/",
+   "summary": "In just a couple days, Apple should be unveiling its long-awaited new lineup of new Home products. That includes an updated HomePod mini, Apple TV 4K , the brand-new smart home hub called ‘HomeView’ , as well as a new lineup of smart home accessories, in collaboration with LG.…",
+   "source": "9to5Mac",
+   "category": "general",
+   "published": "2026-10-11T14:56:13+00:00"
+  },
+  {
+   "id": "8f7a2e10ebbf7ca1",
+   "title": "Prime Video unveils Blade Runner 2099 full trailer at NYCC",
+   "url": "https://arstechnica.com/culture/2026/10/prime-video-unveils-blade-runner-2099-full-trailer-at-nycc/",
+   "summary": "Also: new trailer for Godzilla Minus Zero , the sequel to Takashi Yamazaki’s kaiju epic , Godzilla Minus One",
+   "source": "Ars Technica",
+   "category": "general",
+   "published": "2026-10-11T14:50:24+00:00"
+  },
+  {
+   "id": "a57029e9729cfa7a",
+   "title": "We're in the middle of a PS5 Pro shortage and GTA 6 will only make it worse",
+   "url": "https://www.engadget.com/2280934/playstation-5-pro-shortage-gta-6-only-make-worse/",
+   "summary": "Rockstar's Grand Theft Auto 6 is set to become the most popular game ever and Sony is finding it very difficult to satisfy demand for the PlayStation 5 Pro.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-10-11T14:45:00+00:00"
+  },
+  {
+   "id": "e1016c9e5e870707",
+   "title": "Apple planning huge iPhone Duo demo experiences at select retail stores: report",
+   "url": "https://9to5mac.com/2026/10/11/apple-planning-huge-iphone-duo-demo-experiences-at-select-retail-stores-report/",
+   "summary": "iPhone Duo is just about two weeks away from releasing, and according to Bloomberg’s Mark Gurman , Apple has big retail plans ahead for its first foldable iPhone, to make sure every customer gets to see it to the fullest. more…",
+   "source": "9to5Mac",
+   "category": "general",
+   "published": "2026-10-11T14:31:59+00:00"
+  },
+  {
+   "id": "037b769ce2222dc2",
+   "title": "I'm sorry, but you still have to think",
+   "url": "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/",
+   "summary": "Article URL: https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/ Comments URL: https://news.ycombinator.com/item?id=50043689 Points: 11 # Comments: 0",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-10-11T14:29:07+00:00"
+  },
+  {
+   "id": "7977fcd3d0ef02e8",
+   "title": "Bloomberg: New iPad mini with OLED display will be significantly more expensive than current model",
+   "url": "https://9to5mac.com/2026/10/11/ipad-mini-oled-higher-price/",
+   "summary": "The current iPad mini sells for $599 in its starting 128 GB configuration. Apple is set to introduce the next-generation iPad mini later this month and — while the starting storage may increase — interested buyers should start probably bracing for a price rise. Bloomberg’s Mark…",
+   "source": "9to5Mac",
+   "category": "general",
+   "published": "2026-10-11T14:28:57+00:00"
+  },
+  {
+   "id": "502c64386a2aff0d",
+   "title": "Documents Add to Evidence in Climate Deception Case Against ExxonMobil",
+   "url": "https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/",
+   "summary": "Article URL: https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/ Comments URL: https://news.ycombinator.com/item?id=50043682 Points: 315 # Comments: 158",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-10-11T14:28:39+00:00"
+  },
+  {
+   "id": "b5bc2fd512c5f414",
+   "title": "Apple testing two new features for upgraded Apple TV 4K, per report",
+   "url": "https://9to5mac.com/2026/10/11/apple-testing-two-new-features-for-upgraded-apple-tv-4k-per-report/",
+   "summary": "Apple will hold its “Welcome home” product launch on Tuesday, with the headlining announcement expected to be the new “HomeView” smart display . A new Apple TV 4K is also on the docket for this week, and Apple has tested two new features for it: microphones and an upgraded Siri…",
+   "source": "9to5Mac",
+   "category": "general",
+   "published": "2026-10-11T14:27:21+00:00"
+  },
+  {
+   "id": "814767621f0418a4",
+   "title": "What to know about the landmark Warner Bros. Discovery sale",
+   "url": "https://techcrunch.com/2026/10/11/warner-bros-netflix-paramount-acquisition-timeline-wbd/",
+   "summary": "Learn more about Paramount's planned acquisition of Warner Bros. Discovery — a historic Hollywood megadeal valued at $111 billion — as it continues to develop.",
+   "source": "TechCrunch",
+   "category": "general",
+   "published": "2026-10-11T14:15:00+00:00"
+  },
+  {
+   "id": "0f30637e671bd8a4",
+   "title": "Why it's important to backup data saved on your older thumb drives",
+   "url": "https://www.engadget.com/2280904/why-its-important-to-backup-data-saved-on-older-thumb-drives/",
+   "summary": "Transferring important files to a thumb drive is brilliant for portability, but not always great for longevity. Here's why you should back them up elsewhere.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-10-11T14:15:00+00:00"
+  },
+  {
+   "id": "26084aa0ff73187b",
+   "title": "Report: Apple ‘HomeView’ smart home hub will ship in November, come in four colors, A18 chip",
+   "url": "https://9to5mac.com/2026/10/11/apple-homeview-home-hub-four-colors-november/",
+   "summary": "Bloomberg’s Mark Gurman today reported that the Apple home hub – set to be announced on October 13 as part of Apple’s ‘Welcome home’ event experience — will be called the HomeView. The brand would obviously sit alongside the company’s existing HomePod brand for smart speakers.…",
+   "source": "9to5Mac",
+   "category": "general",
+   "published": "2026-10-11T14:09:49+00:00"
+  },
+  {
+   "id": "ba5db8106c64fb8b",
+   "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+   "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+   "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+   "source": "TechCrunch",
+   "category": "general",
+   "published": "2026-10-11T14:00:00+00:00"
+  },
+  {
+   "id": "69609dd3c74796d3",
+   "title": "Here's how much the PlayStation 5 cost in 2020 vs. 2026",
+   "url": "https://www.engadget.com/2280620/how-much-playstation-5-cost-2020-vs-2026/",
+   "summary": "The PS5 hasn't seen a major price cut or bundle like its predecessors. Instead, you'll pay even more for one today than at launch.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-10-11T13:45:00+00:00"
+  },
+  {
+   "id": "c10f476c4c623eb3",
+   "title": "What's the difference between Android Automotive and Google Built-In?",
+   "url": "https://www.engadget.com/2280617/google-built-in-vs-android-automotive-difference-between-comparison/",
+   "summary": "One is a set of apps while the other can run almost everything inside of a car.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-10-11T13:30:00+00:00"
+  },
+  {
+   "id": "3f717943e4ac2fa8",
+   "title": "What is the oldest Samsung device that still gets software updates in 2026?",
+   "url": "https://www.engadget.com/2280584/oldest-samsung-device-still-gets-software-updates-2026/",
+   "summary": "Knowing how long your phone will get updates is important for deciding when to upgrade.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-10-11T13:15:00+00:00"
+  },
+  {
+   "id": "76f81d42c1fbd6a0",
+   "title": "Vurt wants you to look at vertical videos as a genre of their own",
+   "url": "https://www.theverge.com/entertainment/1008720/vurt-microdramas-verticals-interview-hilmon-sorey",
+   "summary": "From Disney Plus to HBO Max, almost every major established streaming service is experimenting with ways to get into vertical content. It's clear that these companies see video-focused social media platforms like TikTok and Instagram as existential threats. In this arms race…",
+   "source": "The Verge",
+   "category": "general",
+   "published": "2026-10-11T13:00:00+00:00"
+  },
+  {
+   "id": "a1747b83ea7164be",
+   "title": "What to expect from Apple’s ‘Welcome Home’ event",
+   "url": "https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home",
+   "summary": "We are quickly coming up on Apple's \"Welcome Home\" launch event, where we expect a host of smart home-related announcements. We are expecting refreshes to Apple TV and HomePod Mini, as well as a brand new smart home hub. We could also see the debut of a new platform called…",
+   "source": "The Verge",
+   "category": "general",
+   "published": "2026-10-11T13:00:00+00:00"
+  },
+  {
+   "id": "40c1f3660a8f1abb",
+   "title": "Google TV Streamer’s sequel showcases a struggling smart home",
+   "url": "https://9to5google.com/2026/10/11/google-tv-streamer-sequel-smart-home-ecosystem/",
+   "summary": "We broke the news this week that a next-gen Google TV Streamer is incoming, but it also arrives as Google’s smart home hardware strategy faces a tough spot and new competition. 9to5Google Weekender by Ben Schoon is a part of our free newsletter that also includes ‘Inbox,’ a…",
+   "source": "9to5Google",
+   "category": "general",
+   "published": "2026-10-11T13:00:00+00:00"
+  },
+  {
+   "id": "5f46d05323dfd295",
+   "title": "Why CPU overclocking is mostly now a thing of the past",
+   "url": "https://www.engadget.com/2280537/why-overclocking-cpu-mostly-outdated/",
+   "summary": "The performance gains you get with modern chips aren't as noteworthy as they used to be.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-10-11T12:45:00+00:00"
+  },
+  {
+   "id": "d26503b8cc786c32",
+   "title": "How to properly clean your solar panels (and why it's important)",
+   "url": "https://www.engadget.com/2280495/how-to-properly-clean-solar-panels-why-its-important-to/",
+   "summary": "Dirt can cut solar output, but cleaning only pays off when the numbers make sense.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-10-11T12:30:00+00:00"
+  },
+  {
+   "id": "a08f753601ee13a7",
+   "title": "Here's how much the MacBook Pro cost in 2021 vs. 2026",
+   "url": "https://www.engadget.com/2280441/how-much-macbook-pro-cost-2021-vs-2026/",
+   "summary": "You'll be shocked to learn things are getting a lot more expensive.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-10-11T12:15:00+00:00"
+  },
+  {
+   "id": "3c939e9b14bb8208",
+   "title": "The tilde in your PATH may not be your HOME",
+   "url": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
+   "summary": "Article URL: https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/ Comments URL: https://news.ycombinator.com/item?id=50042425 Points: 136 # Comments: 75",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-10-11T12:13:13+00:00"
+  },
+  {
+   "id": "cbcb25b63dc0aed3",
+   "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
+   "url": "https://verdagon.dev/blog/valen-group-borrowing",
+   "summary": "Article URL: https://verdagon.dev/blog/valen-group-borrowing Comments URL: https://news.ycombinator.com/item?id=50042362 Points: 78 # Comments: 32",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-10-11T12:06:22+00:00"
+  },
+  {
+   "id": "afb5f53f7bd11bd1",
+   "title": "Show HN: BetterWispr – Free, open-source dictation for Mac",
+   "url": "https://betterwispr.com/",
+   "summary": "Article URL: https://betterwispr.com/ Comments URL: https://news.ycombinator.com/item?id=50042333 Points: 60 # Comments: 32",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-10-11T12:01:28+00:00"
+  },
+  {
+   "id": "2ec605cc86892b76",
+   "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+   "url": "https://jobs.ashbyhq.com/weave-os",
+   "summary": "Article URL: https://jobs.ashbyhq.com/weave-os Comments URL: https://news.ycombinator.com/item?id=50042330 Points: 0 # Comments: 0",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-10-11T12:01:08+00:00"
+  },
+  {
+   "id": "cc993c9682f86093",
+   "title": "Horror is big business",
+   "url": "https://www.theverge.com/column/1008432/horror-popular-widows-bay-resident-evil",
+   "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how pervasive horror has become, follow Andrew Webster. The Stepback, arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it…",
+   "source": "The Verge",
+   "category": "general",
+   "published": "2026-10-11T12:00:00+00:00"
+  },
+  {
+   "id": "8028189d8c4f5fae",
+   "title": "Why the LeapPad couldn’t survive the iPad",
+   "url": "https://www.theverge.com/podcast/1008578/leapfrog-leappad-technology-version-history",
+   "summary": "For multiple years, the hottest toy in the United States was a book. But not just any book: a smart book that could play sounds and respond to taps and help kids learn to read. It was the kind of gadget seemingly any parent could get behind, but it came with a high price - […]",
+   "source": "The Verge",
+   "category": "general",
+   "published": "2026-10-11T12:00:00+00:00"
+  },
+  {
+   "id": "11d2efccecee3583",
+   "title": "I paid people to try and follow my README",
+   "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
+   "summary": "Article URL: https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/ Comments URL: https://news.ycombinator.com/item?id=50042219 Points: 254 # Comments: 127",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-10-11T11:47:29+00:00"
+  },
+  {
+   "id": "746b439932553992",
+   "title": "I Made Terrible Games With Google’s AI Playground",
+   "url": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
+   "summary": "A long day’s haul in the video game slop mines.",
+   "source": "Wired",
+   "category": "general",
+   "published": "2026-10-11T11:30:00+00:00"
+  },
+  {
+   "id": "ea95eacbd85b4f83",
+   "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+   "summary": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this…",
+   "source": "The Verge",
+   "category": "general",
+   "published": "2026-10-11T11:00:00+00:00"
+  },
+  {
+   "id": "29a713409ba741cf",
+   "title": "Nitter: Update Oct 10th seeking funding and legal help",
+   "url": "https://nitter.net",
+   "summary": "Article URL: https://nitter.net Comments URL: https://news.ycombinator.com/item?id=50041682 Points: 325 # Comments: 154",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-10-11T10:37:55+00:00"
+  },
+  {
+   "id": "f5ee6e8b6c955939",
+   "title": "13 Best Gifts for Every Traveler Should Have (2026)",
+   "url": "https://www.wired.com/story/best-gifts-for-travelers/",
+   "summary": "Travel smarter with gifts packed by WIRED’s globe-trotting staffers.",
+   "source": "Wired",
+   "category": "general",
+   "published": "2026-10-11T10:33:00+00:00"
+  },
+  {
+   "id": "252f14754c34ad9c",
+   "title": "Inside the Muslim Manosphere Policing Women Online",
+   "url": "https://www.wired.com/story/inside-the-muslim-manosphere-policing-women-online/",
+   "summary": "From Red Pill coaches to “Dawah Bros,” influencers are dressing up hypermasculinity and misogyny in religious language—and finding audiences across social platforms.",
+   "source": "Wired",
+   "category": "general",
+   "published": "2026-10-11T10:30:00+00:00"
+  },
+  {
+   "id": "e96b8175ab18fc0d",
+   "title": "Bot traffic from Yandex",
+   "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d",
+   "summary": "Article URL: https://radar.cloudflare.com/bots/as13238?dateRange=7d Comments URL: https://news.ycombinator.com/item?id=50041619 Points: 506 # Comments: 195",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-10-11T10:27:53+00:00"
+  },
+  {
+   "id": "90c3622fd86acd3f",
+   "title": "IRCv3",
+   "url": "https://ircv3.net/",
+   "summary": "Article URL: https://ircv3.net/ Comments URL: https://news.ycombinator.com/item?id=50041540 Points: 230 # Comments: 210",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-10-11T10:11:27+00:00"
+  },
+  {
+   "id": "b82d082e1cb113cd",
+   "title": "These Midterm Races Will Decide Data Centers’ Political Fate",
+   "url": "https://www.wired.com/story/midterm-races-decide-data-centers-political-fate/",
+   "summary": "From the Senate to governors’ mansions, candidates are trying to outcompete each other to be the most anti–data center in races across the US.",
+   "source": "Wired",
+   "category": "general",
+   "published": "2026-10-11T10:00:00+00:00"
+  },
+  {
+   "id": "8ee87a7111da4720",
+   "title": "How the 2026 Super El Niño and Climate Change Are Related",
+   "url": "https://www.wired.com/story/super-el-nino-climate-change-connections/",
+   "summary": "Here’s what we know about the record-setting El Niño on a record-hot planet, and the most important questions scientists are trying to answer.",
+   "source": "Wired",
+   "category": "general",
+   "published": "2026-10-11T09:30:00+00:00"
+  },
+  {
+   "id": "720d275a9ffd8d32",
+   "title": "California’s Tallest and Most Iconic Trees Are Getting Heatstroke",
+   "url": "https://www.wired.com/story/californias-tallest-and-most-iconic-trees-are-getting-heat-stroke/",
+   "summary": "Redwoods adapted to a cool, foggy climate. Now a new study shows they slow down photosynthesis when their environment warms.",
+   "source": "Wired",
+   "category": "general",
+   "published": "2026-10-11T09:00:00+00:00"
+  },
+  {
+   "id": "17c1930c70306ff3",
+   "title": "3rd Yandex Cloud Data Center Was Hit",
+   "url": "https://status.yandex.cloud/en/incidents/2136",
+   "summary": "Article URL: https://status.yandex.cloud/en/incidents/2136 Comments URL: https://news.ycombinator.com/item?id=50040547 Points: 398 # Comments: 486",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-10-11T07:34:45+00:00"
+  },
+  {
+   "id": "0c8f134e25ee7929",
+   "title": "OrcaRouter Releases OrcaCyber Zero 1.5 Cybersecurity Model With 1M Context",
+   "url": "https://www.marktechpost.com/2026/10/10/orcarouter-releases-orcacyber-zero-1-5-cybersecurity-model-with-1m-context/",
+   "summary": "OrcaRouter released OrcaCyber Zero 1.5, a gated cybersecurity model with a 1M-token context window. It reports 100% on Cybench and 95.8% on an evaluable CVE-Bench subset, priced at $3.00 / $7.50 per 1M tokens. The post OrcaRouter Releases OrcaCyber Zero 1.5 Cybersecurity Model…",
+   "source": "MarkTechPost",
+   "category": "ia",
+   "published": "2026-10-11T06:20:21+00:00"
+  },
+  {
+   "id": "17612f44d03ca63a",
+   "title": "LineageOS 24.0",
+   "url": "https://lineageos.org/Changelog-32/",
+   "summary": "Article URL: https://lineageos.org/Changelog-32/ Comments URL: https://news.ycombinator.com/item?id=50040276 Points: 300 # Comments: 106",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-10-11T06:18:59+00:00"
+  },
+  {
+   "id": "2ace2d9a18d6ec61",
+   "title": "MacBook Pro overhaul: entry-level model to gain new design sooner than expected",
+   "url": "https://9to5mac.com/2026/10/10/m7-macbook-pro-redesign-next-spring/",
+   "summary": "Earlier this year, Bloomberg’s Mark Gurman revealed that Apple has a new M7-powered entry level MacBook Pro in the pipeline for spring 2027. This isn’t an ordinary MacBook Pro refresh though. It’ll bring the upcoming redesign down to the entry level, something that previously…",
+   "source": "9to5Mac",
+   "category": "general",
+   "published": "2026-10-11T04:25:16+00:00"
+  },
+  {
+   "id": "7c934659dfa09bbd",
+   "title": "PSPi 6 – Raspberry Pi in a PSP",
+   "url": "https://github.com/othermod/PSPi-Version-6",
+   "summary": "Article URL: https://github.com/othermod/PSPi-Version-6 Comments URL: https://news.ycombinator.com/item?id=50038623 Points: 123 # Comments: 12",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-10-11T00:45:49+00:00"
+  },
+  {
+   "id": "b66a5f4c0af6af86",
+   "title": "Googlebook improving ‘Better Together’ Android sync features, Samsung support rolling out",
+   "url": "https://9to5google.com/2026/10/10/googlebook-android-sync-updates-samsung-support-rolling-out/",
+   "summary": "The big selling point for Googlebook is that it’s a desktop platform that deeply integrates with your Android phone but, at launch, those “Better Together” sync features are in a messy place. Google is now rolling out updates, including the bafflingly-missing support for…",
+   "source": "9to5Google",
+   "category": "general",
+   "published": "2026-10-11T00:35:00+00:00"
+  },
+  {
+   "id": "f42ffe6cc52101b0",
+   "title": "How to enable Live Activities on iPhone and CarPlay",
+   "url": "https://www.engadget.com/2280381/how-to-enable-live-activites-iphone-carplay/",
+   "summary": "Live Activities put the most important real-time information from apps in a place where it's easy to keep an eye on.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-10-11T00:30:00+00:00"
+  },
+  {
+   "id": "7dd43197b2f6209c",
+   "title": "How does a backup camera actually work?",
+   "url": "https://www.engadget.com/2280368/how-backup-camera-works/",
+   "summary": "Aftermarket backup cameras might not work as well as integrated ones, but they're still a useful upgrade to an older car.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-10-11T00:00:00+00:00"
+  },
+  {
+   "id": "4fbf3ab724fcf4cf",
+   "title": "How to use the parental controls on iOS 27",
+   "url": "https://www.engadget.com/2280277/how-to-use-ios-27-parental-controls/",
+   "summary": "Screen Time has new features to help parents manage their children's Apple devices, as well as refinements to existing controls.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-10-10T23:45:00+00:00"
+  },
+  {
+   "id": "485b7022e5038602",
+   "title": "How to reduce mobile data usage on your iPhone",
+   "url": "https://www.engadget.com/2280214/how-to-reduce-mobile-data-usage-iphone/",
+   "summary": "If your cellular plan has limited data, you'll want to take advantage of these easy tweaks to stretch those gigabytes.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-10-10T23:30:00+00:00"
+  },
+  {
+   "id": "793afb17d511275b",
+   "title": "Simple tweaks to improve your 4K TV's picture quality",
+   "url": "https://www.engadget.com/2280162/improve-picture-quality-4k-tv-simple-tweaks/",
+   "summary": "Even if your TV looks great as-is, some tweaks to its modes and sliders, as well as the room it's in, will make it look much better.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-10-10T23:00:00+00:00"
+  },
+  {
+   "id": "abaf3a9de5043d89",
+   "title": "Build your own decision model",
+   "url": "https://nishtahir.com/build-your-own-decision-model/",
+   "summary": "Article URL: https://nishtahir.com/build-your-own-decision-model/ Comments URL: https://news.ycombinator.com/item?id=50037949 Points: 423 # Comments: 96",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-10-10T22:50:10+00:00"
+  },
+  {
+   "id": "7b54da849c613a3e",
+   "title": "How to lock apps on your Samsung Galaxy phone",
+   "url": "https://www.engadget.com/2280136/how-to-lock-app-samsung-galaxy-phone/",
+   "summary": "Samsung phones have a couple of features that can keep sensitive apps and files private. One locks your chosen apps, and the other restricts all but one app.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-10-10T22:45:00+00:00"
+  },
+  {
+   "id": "64aff2e6b0fc61c1",
+   "title": "What is the 3-2-1 rule for backing up your data?",
+   "url": "https://www.engadget.com/2280127/backing-up-data-3-2-1-rule-explained/",
+   "summary": "Make sure your files are safe in the event of a hard drive disaster.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-10-10T22:30:00+00:00"
+  },
+  {
+   "id": "35dc91695d5dee44",
+   "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+   "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply…",
+   "source": "The Verge",
+   "category": "general",
+   "published": "2026-10-10T22:10:17+00:00"
+  },
+  {
+   "id": "c03460df26e9fe9a",
+   "title": "Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors",
+   "url": "https://www.marktechpost.com/2026/10/10/sakana-ais-llm-peer-review-system-catches-73-of-core-claim-errors/",
+   "summary": "Sakana AI’s TMLR paper introduces Multi-Layered Review, a 3-agent Claude-based reviewer, and a 1,164-error Contradiction Benchmark. MLR caught 73.43% of core-claim errors, versus 14.81% for the best prior system. The post Sakana AI’s LLM Peer Review System Catches 73% of…",
+   "source": "MarkTechPost",
+   "category": "ia",
+   "published": "2026-10-10T22:02:18+00:00"
+  },
+  {
+   "id": "d05facb80f7a8876",
+   "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+   "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+   "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+   "source": "TechCrunch",
+   "category": "general",
+   "published": "2026-10-10T21:47:51+00:00"
+  },
+  {
+   "id": "045efcba71c1d7d8",
+   "title": "When the Safety Test Became the Threat: The Machine That Found Its Own Way Out",
+   "url": "https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out/",
+   "summary": "In July 2026, frontier AI agents placed inside a cybersecurity testing sandbox named ExploitGym discovered an unexpected network pathway, broke out into the open internet, and autonomously compromised Hugging Face infrastructure in one of history's most unprecedented AI safety…",
+   "source": "MarkTechPost",
+   "category": "ia",
+   "published": "2026-10-10T21:30:36+00:00"
+  },
+  {
+   "id": "a7b631d11f26e288",
+   "title": "Samsung has updated these Galaxy devices to Android 17",
+   "url": "https://9to5google.com/2026/10/10/samsung-galaxy-android-17-update-list/",
+   "summary": "Samsung is now rolling out its Android 17-based update, One UI 9, to its collection of supported Galaxy smartphones and tablets. Here’s the full list of devices that have been updated so far, and what you should know about the update. more…",
+   "source": "9to5Google",
+   "category": "general",
+   "published": "2026-10-10T20:58:26+00:00"
+  },
+  {
+   "id": "1f4b55400949c0bc",
+   "title": "A city-building game in which the city would prefer you didn't",
+   "url": "https://housing.over.pizza/",
+   "summary": "Article URL: https://housing.over.pizza/ Comments URL: https://news.ycombinator.com/item?id=50036864 Points: 471 # Comments: 157",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-10-10T20:31:50+00:00"
+  },
+  {
+   "id": "9fe15a12a7df7ad0",
+   "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+   "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+   "summary": "Is Apple hoping to get into the AI-generated podcast business?",
+   "source": "TechCrunch",
+   "category": "general",
+   "published": "2026-10-10T19:50:00+00:00"
+  },
+  {
+   "id": "93101a411293af25",
+   "title": "Indie App Spotlight: ‘Milepost’ is a driving journal that saves your memories on the road",
+   "url": "https://9to5mac.com/2026/10/10/indie-app-spotlight-milepost-is-a-driving-journal-that-saves-your-memories-on-the-road/",
+   "summary": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . Milepost turns your roadtrips into more of a journey. It lets you record all of…",
+   "source": "9to5Mac",
+   "category": "general",
+   "published": "2026-10-10T19:30:00+00:00"
+  },
+  {
+   "id": "48da30798229f60f",
+   "title": "Where Google Wallet state IDs are available on Android",
+   "url": "https://9to5google.com/2026/10/10/google-wallet-state-ids/",
+   "summary": "States across the US are slowly rolling out support for adding your driver’s license or ID to the Google Wallet app on Android. more…",
+   "source": "9to5Google",
+   "category": "general",
+   "published": "2026-10-10T19:20:00+00:00"
+  },
+  {
+   "id": "e77e9ae83492452b",
+   "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+   "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+   "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that…",
+   "source": "The Verge",
+   "category": "general",
+   "published": "2026-10-10T18:52:07+00:00"
+  },
   {
    "id": "858e15a4e46b63b3",
    "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
@@ -525,6 +1227,15 @@
    "published": "2026-10-10T09:00:00+00:00"
   },
   {
+   "id": "ca3f569fd4b88ed6",
+   "title": "Rat's Register Allocator",
+   "url": "https://hexrat.cc/pages/blog/2026_10_07",
+   "summary": "Article URL: https://hexrat.cc/pages/blog/2026_10_07 Comments URL: https://news.ycombinator.com/item?id=50030470 Points: 44 # Comments: 2",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-10-10T07:10:17+00:00"
+  },
+  {
    "id": "a101dcbc367475f0",
    "title": "My brief romance with an AI bird feeder",
    "url": "https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too",
@@ -613,6 +1324,15 @@
    "source": "MarkTechPost",
    "category": "ia",
    "published": "2026-10-10T04:51:34+00:00"
+  },
+  {
+   "id": "6612db5ecf0e1fc5",
+   "title": "The Lightbulb Computer",
+   "url": "https://lightbulbcomputer.com/",
+   "summary": "Article URL: https://lightbulbcomputer.com/ Comments URL: https://news.ycombinator.com/item?id=50029487 Points: 538 # Comments: 88",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-10-10T04:12:26+00:00"
   },
   {
    "id": "467cf97b1acfa9c0",
