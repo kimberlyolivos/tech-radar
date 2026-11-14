@@ -1,60 +1,60 @@
 {
- "updated": "2026-11-13T19:20:15.228990+00:00",
+ "updated": "2026-11-14T17:44:49.689970+00:00",
  "status": [
   {
    "source": "Hacker News",
    "ok": true,
-   "new": 19
+   "new": 20
   },
   {
    "source": "TechCrunch",
    "ok": true,
-   "new": 12
+   "new": 7
   },
   {
    "source": "The Verge",
    "ok": true,
-   "new": 9
+   "new": 10
   },
   {
    "source": "Ars Technica",
    "ok": true,
-   "new": 12
+   "new": 9
   },
   {
    "source": "Wired",
    "ok": true,
-   "new": 28
+   "new": 24
   },
   {
    "source": "MIT Technology Review",
    "ok": true,
-   "new": 4
+   "new": 0
   },
   {
    "source": "Engadget",
    "ok": true,
-   "new": 11
+   "new": 20
   },
   {
    "source": "9to5Google",
    "ok": true,
-   "new": 15
+   "new": 4
   },
   {
    "source": "9to5Mac",
    "ok": true,
-   "new": 19
+   "new": 9
   },
   {
    "source": "Hugging Face Blog",
    "ok": true,
-   "new": 17
+   "new": 14
   },
   {
    "source": "OpenAI",
    "ok": true,
-   "new": 3
+   "new": 1
   },
   {
    "source": "Google DeepMind",
@@ -74,15 +74,951 @@
   {
    "source": "MarkTechPost",
    "ok": true,
-   "new": 6
+   "new": 2
   },
   {
    "source": "Import AI",
-   "ok": false,
-   "error": "<unknown>:2:1326: not well-formed (invalid token)"
+   "ok": true,
+   "new": 20
   }
  ],
  "items": [
+  {
+   "id": "43a64e6ec908a093",
+   "title": "Work to replace old copper wire led to the FAA’s ground stop",
+   "url": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire",
+   "summary": "At a press conference today, Transportation Secretary Sean Duffy said that Friday's nationwide ground stop ordered by the FAA was related to work replacing outdated copper wire with a fiber optic line at a \"remote FAA facility.\" The secretary said that this was \"routine…",
+   "source": "The Verge",
+   "category": "general",
+   "published": "2026-11-14T17:44:28+00:00"
+  },
+  {
+   "id": "7423508a5eb80e01",
+   "title": "Here’s a HomeView feature that should come to every Apple device",
+   "url": "https://9to5mac.com/2026/11/14/homeview-ambient-dark-mode-should-come-to-all-devices/",
+   "summary": "This week, Apple started shipping the HomeView , its first display made for the smart home. On the HomeView , there’s one particularly nice feature that I’d love to see make its way to all Apple platforms: Ambient Dark Mode. more…",
+   "source": "9to5Mac",
+   "category": "general",
+   "published": "2026-11-14T17:43:49+00:00"
+  },
+  {
+   "id": "7134e7e1ad670b60",
+   "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+   "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+   "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+   "source": "TechCrunch",
+   "category": "general",
+   "published": "2026-11-14T17:30:00+00:00"
+  },
+  {
+   "id": "98c1b0177d0095b7",
+   "title": "Samsung may be getting rid of another One UI feature",
+   "url": "https://www.engadget.com/2311763/samsung-one-ui-getting-rid-of-another-feature/",
+   "summary": "Samsung has discontinued Samsung Messages in favor of Google Messages in the US, and it looks like another One UI feature may suffer the same fate.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-11-14T17:30:00+00:00"
+  },
+  {
+   "id": "e5e8a4b21f101c45",
+   "title": "Is 1TB enough storage for your Xbox Series X? Here's what gamers should know",
+   "url": "https://www.engadget.com/2311827/1tb-storage-xbox-series-x-enough/",
+   "summary": "With games increasingly taking up valuable space on consoles, we take a look at whether going for the extra storage on the Xbox Series X is really worth it.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-11-14T17:15:00+00:00"
+  },
+  {
+   "id": "0fe8c96441f33628",
+   "title": "Why is the NVIDIA RTX 3060 still the most popular GPU on Steam?",
+   "url": "https://www.engadget.com/2315651/why-nvidia-rtx-3060-most-popular-steam-gpu/",
+   "summary": "You'd think that gamers would always run the latest and greatest GPUs in their rigs, but NVIDIA's RTX 3060 proves that isn't quite the case.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-11-14T17:00:00+00:00"
+  },
+  {
+   "id": "d3b13942bbdb32a4",
+   "title": "Uber drivers' information stolen in a third-party hack",
+   "url": "https://www.engadget.com/2316881/uber-drivers-information-stolen-in-a-third-party-hack/",
+   "summary": "Uber sends warning to drivers whose information was stolen in a data breach.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-11-14T16:47:44+00:00"
+  },
+  {
+   "id": "4e7aff1790df8a08",
+   "title": "Your new tech is still stuck in the year 1970 — here's why",
+   "url": "https://www.engadget.com/2311725/new-tech-stick-in-year-1970-unix-time-explained/",
+   "summary": "If you've ever seen an arbitrary date in 1970 on your non-Windows device, don't worry, it's not glitching. It was chosen during the development process.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-11-14T16:45:00+00:00"
+  },
+  {
+   "id": "075bbfb634c2a8a5",
+   "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+   "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+   "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+   "source": "TechCrunch",
+   "category": "general",
+   "published": "2026-11-14T16:34:15+00:00"
+  },
+  {
+   "id": "c226bfdad555c35b",
+   "title": "Here's how much Apple AirPods cost in 2016 vs. 2026",
+   "url": "https://www.engadget.com/2311715/apple-airpods-2016-vs-2026-how-much-they-cost/",
+   "summary": "First introduced in 2016, AirPods have improved in quality, offering a bevy of new features, but how has that impacted the cost to the consumer today?",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-11-14T16:30:00+00:00"
+  },
+  {
+   "id": "875fe0087c191b39",
+   "title": "Whatever happened to Sony Xperia phones?",
+   "url": "https://www.engadget.com/2311608/sony-xperia-phones-what-happened/",
+   "summary": "Sony seems to have its hand in virtually every device offering, but true fans know that one product line in particular vanished from the American market.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-11-14T16:15:00+00:00"
+  },
+  {
+   "id": "baf7a9329e6cc256",
+   "title": "Italy fines Meta €805M over photo privacy",
+   "url": "https://www.rapporteur.com/news/italy-fines-meta-880mn-over-photo-privacy-authority/",
+   "summary": "Article URL: https://www.rapporteur.com/news/italy-fines-meta-880mn-over-photo-privacy-authority/ Comments URL: https://news.ycombinator.com/item?id=50498063 Points: 89 # Comments: 37",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-11-14T16:00:14+00:00"
+  },
+  {
+   "id": "7710af2950c2f439",
+   "title": "What the circled \"Z\" on Google Maps means",
+   "url": "https://www.engadget.com/2311447/google-maps-circled-z-meaning/",
+   "summary": "If you've seen a circled capital Z on your Google Maps route, you should know what it means. It might save you from a ticket.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-11-14T16:00:00+00:00"
+  },
+  {
+   "id": "22f7379a4d8d014a",
+   "title": "Sodium vs. lithium-ion batteries: What's the difference between them?",
+   "url": "https://www.engadget.com/2311394/sodium-vs-lithium-ion-batteries-differences-compared/",
+   "summary": "Lithium-ion batteries may dominate today, but emerging alternatives like sodium-ion may soon have their time in the spotlight if we can manage key differences.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-11-14T15:45:00+00:00"
+  },
+  {
+   "id": "14e0892d6f4a61bb",
+   "title": "Formalizing US Tax Code (Using Lean)",
+   "url": "https://lexifina.com/blog/formalizing-the-us-tax-code",
+   "summary": "Article URL: https://lexifina.com/blog/formalizing-the-us-tax-code Comments URL: https://news.ycombinator.com/item?id=50497900 Points: 52 # Comments: 16",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-11-14T15:41:20+00:00"
+  },
+  {
+   "id": "85898c0796640ac4",
+   "title": "PyPI's redesigned project pages with clearer security signals are now live",
+   "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+   "summary": "Article URL: https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/ Comments URL: https://news.ycombinator.com/item?id=50497892 Points: 92 # Comments: 24",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-11-14T15:40:52+00:00"
+  },
+  {
+   "id": "a2a907d6fb8b91d9",
+   "title": "Should you make the switch to Samsung Galaxy from Google Pixel?",
+   "url": "https://www.engadget.com/2311344/switch-to-samsung-galaxy-to-google-pixel/",
+   "summary": "Thinking about trading your Google Pixel for a Samsung Galaxy? Some of the biggest differences might not be the ones you expect.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-11-14T15:30:00+00:00"
+  },
+  {
+   "id": "ced915593d057cb4",
+   "title": "Smart glasses could replace your monitor but they shouldn't — here's why",
+   "url": "https://www.engadget.com/2311266/smart-glasses-replace-monitor-why-not/",
+   "summary": "Smart glasses could one day replace your desk setup with a screen that follows you anywhere. Before you make the switch, there are a few things to consider.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-11-14T15:15:00+00:00"
+  },
+  {
+   "id": "ad8b3d5bdfd0d7ff",
+   "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+   "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+   "summary": "Article URL: https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax Comments URL: https://news.ycombinator.com/item?id=50497589 Points: 17 # Comments: 0",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-11-14T15:04:15+00:00"
+  },
+  {
+   "id": "9d893453c0dadee0",
+   "title": "Here are our favorite deals from REI’s giant Holiday Sale",
+   "url": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026",
+   "summary": "Black Friday has become a shopping season of its own, with retailers once again offering discounts well ahead of the actual shopping holiday. We’ve already rounded up some of the best early Black Friday deals we’ve come across, but if you’re looking to save on outdoor gear or…",
+   "source": "The Verge",
+   "category": "general",
+   "published": "2026-11-14T15:00:00+00:00"
+  },
+  {
+   "id": "d46b516a4c8344dc",
+   "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+   "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+   "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is…",
+   "source": "The Verge",
+   "category": "general",
+   "published": "2026-11-14T15:00:00+00:00"
+  },
+  {
+   "id": "fcf5f67c5276e1e8",
+   "title": "The weird reasons why your ethernet cable might be slower than your Wi-Fi",
+   "url": "https://www.engadget.com/2311140/reason-why-ethernet-cable-slower-than-wifi/",
+   "summary": "It could be hardware, software or something else entirely.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-11-14T15:00:00+00:00"
+  },
+  {
+   "id": "3f7e5d998a87a383",
+   "title": "Your iPhone has a built-in barometer — Here's how to use it",
+   "url": "https://www.engadget.com/2311121/iphone-barometric-pressure-app-and-how-it-works/",
+   "summary": "The iPhone's barometer is easy to overlook, but it's one of several sensors working behind the scenes every day, collecting data most users haven't seen.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-11-14T14:45:00+00:00"
+  },
+  {
+   "id": "0622f1ac5f9ee1f8",
+   "title": "Which Android Phones Are Most Similar To The OnePlus 16?",
+   "url": "https://www.engadget.com/2311107/android-phones-most-similar-oneplus-16/",
+   "summary": "While the OnePlus 16 isn't available in the US or Europe, there are lots of good alternatives.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-11-14T14:30:00+00:00"
+  },
+  {
+   "id": "3fdf29b5c4eabeab",
+   "title": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
+   "url": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
+   "summary": "Tesla is doubling, or perhaps tripling down on its bold claims of an autonomous future with the offer to \"select customers\" to purchase a Cybercab for \"personal use.\" But the gilded, steering-wheel-free two-seater will \"only be available in supported service areas\" - meaning…",
+   "source": "The Verge",
+   "category": "general",
+   "published": "2026-11-14T14:18:36+00:00"
+  },
+  {
+   "id": "b347540d81ed74fe",
+   "title": "Samsung is taking a page out of Pixel's playbook with One UI 9.5",
+   "url": "https://www.engadget.com/2316348/samsung-one-ui-9-5-feature-memory-app-from-pixel-playbook/",
+   "summary": "A riff on Google's Pixel Screenshots could pull together fragmented information from across your phone.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-11-14T14:15:00+00:00"
+  },
+  {
+   "id": "dbb6a7059ae0b9fb",
+   "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+   "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+   "summary": "Article URL: https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/ Comments URL: https://news.ycombinator.com/item?id=50497155 Points: 78 # Comments: 38",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-11-14T14:09:25+00:00"
+  },
+  {
+   "id": "3f060b226b666014",
+   "title": "Show HN: Agweb – a browser for agents that stays out of your way",
+   "url": "https://github.com/paul-nameless/agweb",
+   "summary": "Article URL: https://github.com/paul-nameless/agweb Comments URL: https://news.ycombinator.com/item?id=50497147 Points: 47 # Comments: 14",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-11-14T14:08:12+00:00"
+  },
+  {
+   "id": "ad49a76de154c470",
+   "title": "Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)",
+   "url": "https://github.com/FURSOY/fursoy-cpu",
+   "summary": "Article URL: https://github.com/FURSOY/fursoy-cpu Comments URL: https://news.ycombinator.com/item?id=50497137 Points: 30 # Comments: 8",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-11-14T14:06:34+00:00"
+  },
+  {
+   "id": "5bfa2e37b7da2747",
+   "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+   "url": "https://gitlab.com/snipedbywifi/terminactory",
+   "summary": "Hey HN readers! I'm snipedbywifi ( https://gitlab.com/snipedbywifi ), and i've been working on terminactory. Please try it out if you'd like to play a cozy factory game while waiting for long agent tasks to finish! The game is a factory game (overused niche, i know xD), but…",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-11-14T14:05:54+00:00"
+  },
+  {
+   "id": "30ba9526ee506416",
+   "title": "This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers",
+   "url": "https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on",
+   "summary": "As much as I appreciate the ingenious design of the Nintendo Switch's Joy-Con, my family and I can't stand using them as standalone gamepads. So when we travel with the Switch 2, we always bring at least one full-size gamepad, plus a couple of 8BitDo's Zero 2 controllers for…",
+   "source": "The Verge",
+   "category": "general",
+   "published": "2026-11-14T14:00:00+00:00"
+  },
+  {
+   "id": "17d64f06767f885b",
+   "title": "How to use the new remote finding features on the Apple TV 4K (4th gen)",
+   "url": "https://www.engadget.com/2316344/how-to-use-apple-tv-4k-remote-finding-feature/",
+   "summary": "The new Apple TV 4K has a smarter way to hunt down a missing remote. Find out how the feature works and what you need on your end to make it happen.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-11-14T14:00:00+00:00"
+  },
+  {
+   "id": "fce0f631d2f81af1",
+   "title": "Apple @ Work: The spiritual successor to the Xserve is here, thanks to Apple silicon and MLX",
+   "url": "https://9to5mac.com/2026/11/14/apple-work-the-spiritual-successor-to-the-xserve-is-here-and-apple-never-had-to-ship-an-llm-to-get-there/",
+   "summary": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at…",
+   "source": "9to5Mac",
+   "category": "general",
+   "published": "2026-11-14T14:00:00+00:00"
+  },
+  {
+   "id": "13c95fb22a8ac77e",
+   "title": "Tesla starts taking Cybercab orders for personal use",
+   "url": "https://www.engadget.com/2316848/tesla-starts-taking-cybercab-orders-for-personal-use/",
+   "summary": "Tesla is sending select customers invitations to purchase the Cybercab for personal use.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-11-14T13:59:48+00:00"
+  },
+  {
+   "id": "b02211b1de7e74be",
+   "title": "Italy fines Meta $887M over Android users' data access",
+   "url": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/",
+   "summary": "Article URL: https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/ Comments URL: https://news.ycombinator.com/item?id=50497009 Points: 146 # Comments: 70",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-11-14T13:48:06+00:00"
+  },
+  {
+   "id": "ca688617b3cb15f1",
+   "title": "How long will it take you to download GTA 6 based on your internet speeds?",
+   "url": "https://www.engadget.com/2316732/gta-6-download-time-internet-speed-calculator/",
+   "summary": "You won't have to ruin your weekend plans to download this open-world epic.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-11-14T13:45:00+00:00"
+  },
+  {
+   "id": "fbb4c2fd353eb380",
+   "title": "KDE: The Documentary on Free Software [video]",
+   "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+   "summary": "Article URL: https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c Comments URL: https://news.ycombinator.com/item?id=50496976 Points: 167 # Comments: 26",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-11-14T13:43:28+00:00"
+  },
+  {
+   "id": "a7ab4e0023a4dc87",
+   "title": "A visual explanation of reinforcement learning",
+   "url": "https://aatishb.com/myriad/how-brains-learn/",
+   "summary": "Article URL: https://aatishb.com/myriad/how-brains-learn/ Comments URL: https://news.ycombinator.com/item?id=50496885 Points: 39 # Comments: 1",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-11-14T13:31:06+00:00"
+  },
+  {
+   "id": "1c148ea124442b52",
+   "title": "5 TVs with deep discounts before Black Friday even started",
+   "url": "https://www.engadget.com/2316107/deep-discounts-tvs-before-black-friday-deals/",
+   "summary": "You don't need to wait till later this month to snag an upgrade for your living room.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-11-14T13:30:00+00:00"
+  },
+  {
+   "id": "90d40fe08702a974",
+   "title": "Advancing science and engineering with Antigravity's /teamwork",
+   "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+   "summary": "Article URL: https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/ Comments URL: https://news.ycombinator.com/item?id=50496811 Points: 68 # Comments: 17",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-11-14T13:20:43+00:00"
+  },
+  {
+   "id": "d5dd068ae286b6f5",
+   "title": "AMD vs. Intel CPUs: Which is the better buy in 2026?",
+   "url": "https://www.engadget.com/2310528/amd-vs-intel-cpu-which-better-buy-2026/",
+   "summary": "AMD and Intel CPUs have different strengths, so you'll need to consider what you need out of a CPU to make the right choice.",
+   "source": "Engadget",
+   "category": "general",
+   "published": "2026-11-14T13:15:00+00:00"
+  },
+  {
+   "id": "f94fedc0556240ed",
+   "title": "Early Black Friday Apple deals: AirPods, AirTag 2, MacBook Air, Apple Pencil, Mac mini, more",
+   "url": "https://9to5mac.com/2026/11/14/early-black-friday-apple-deals-apple-tv-4k-airpods/",
+   "summary": "Alongside the release of the new Apple TV 4K , we also have loads of the early Black Friday offers flying with the lowest prices to date on AirTag 2 at $17.50 , rare discounts on Magic Mouse , the lowest price yet on the 2026 Magic Keyboard and more, alongside the $50 price…",
+   "source": "9to5Mac",
+   "category": "general",
+   "published": "2026-11-14T13:05:05+00:00"
+  },
+  {
+   "id": "f6ab18d54d4e8319",
+   "title": "A gadget to make your dumb house smarter",
+   "url": "https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer",
+   "summary": "Hi, friends! Welcome to Installer No. 152, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for taking time away from Zelda to be here, and also you can read all the old editions at the Installer homepage.) This week, I've been…",
+   "source": "The Verge",
+   "category": "general",
+   "published": "2026-11-14T13:00:00+00:00"
+  },
+  {
+   "id": "82ab3d6d079489a7",
+   "title": "Beware the New AI-Fueled Ransomware Boom",
+   "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+   "summary": "Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc.",
+   "source": "Wired",
+   "category": "general",
+   "published": "2026-11-14T13:00:00+00:00"
+  },
+  {
+   "id": "f67a5ae71b6ef2be",
+   "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
+   "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+   "summary": "Article URL: https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again Comments URL: https://news.ycombinator.com/item?id=50496602 Points: 236 # Comments: 92",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-11-14T12:45:45+00:00"
+  },
+  {
+   "id": "36a3bda3117215c3",
+   "title": "James Webb telescope finds ice older than the star it orbits",
+   "url": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
+   "summary": "Radiation and collisions reshape the planetary building materials.",
+   "source": "Ars Technica",
+   "category": "general",
+   "published": "2026-11-14T12:15:48+00:00"
+  },
+  {
+   "id": "c03a709644dfc92e",
+   "title": "Winemakers are learning that conservation can be good for business",
+   "url": "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/",
+   "summary": "Healthy soils, native plants, and fewer chemicals are helping vineyards adapt.",
+   "source": "Ars Technica",
+   "category": "general",
+   "published": "2026-11-14T12:05:51+00:00"
+  },
+  {
+   "id": "6f1509997fc90ff7",
+   "title": "I Put the Best Digital Notebooks to the Test. Here Are My Favorites (2026)",
+   "url": "https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/",
+   "summary": "These nifty tools combine the ease of jotting notes by hand with the power of saving them digitally.",
+   "source": "Wired",
+   "category": "general",
+   "published": "2026-11-14T12:05:00+00:00"
+  },
+  {
+   "id": "567fa298898a17ca",
+   "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+   "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+   "summary": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces awash in blue glow, as he made his…",
+   "source": "The Verge",
+   "category": "general",
+   "published": "2026-11-14T12:00:00+00:00"
+  },
+  {
+   "id": "6b1db339e0d70284",
+   "title": "How to Run SteamOS on Your Mac",
+   "url": "https://www.wired.com/story/get-steamos-easily-running-on-your-mac/",
+   "summary": "A free app lets you boot SteamOS in a virtual machine on your Apple Silicon Mac, unlocking PC and legacy games that otherwise won’t run.",
+   "source": "Wired",
+   "category": "general",
+   "published": "2026-11-14T12:00:00+00:00"
+  },
+  {
+   "id": "2c9eed835ec9efc5",
+   "title": "10 Best Early Black Friday Headphone Deals (2026): Up to 50% Off",
+   "url": "https://www.wired.com/story/best-early-black-friday-headphone-deals-11-14-26/",
+   "summary": "Get up to 50 percent off some of my favorite headphones and earbuds from Apple, Sony, Nothing, and more.",
+   "source": "Wired",
+   "category": "general",
+   "published": "2026-11-14T11:30:00+00:00"
+  },
+  {
+   "id": "055f967e94231401",
+   "title": "It’s Time to Run an Audit of All the Cloud Storage Links You’ve Shared",
+   "url": "https://www.wired.com/story/audit-all-the-cloud-storage-links-youve-shared/",
+   "summary": "Those old links you shared with friends ages ago are still live, and they might be attracting unwelcome visitors.",
+   "source": "Wired",
+   "category": "general",
+   "published": "2026-11-14T11:30:00+00:00"
+  },
+  {
+   "id": "1f8f963bba087793",
+   "title": "The 21 Best REI Holiday Sale Outdoor Deals (2026)",
+   "url": "https://www.wired.com/story/best-rei-holiday-sale-outdoor-deals-2026/",
+   "summary": "Stock up on outdoor gear and gifts for friends at REI's annual holiday sale.",
+   "source": "Wired",
+   "category": "general",
+   "published": "2026-11-14T11:00:00+00:00"
+  },
+  {
+   "id": "b84b4c49c41de92a",
+   "title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
+   "url": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
+   "summary": "Normally, aviation is slow to embrace new technology—but AI has come for the skies.",
+   "source": "Wired",
+   "category": "general",
+   "published": "2026-11-14T11:00:00+00:00"
+  },
+  {
+   "id": "a2fc56527bca0893",
+   "title": "My 9 Favorite Pickleball Paddles From 3 Years of Testing (2026)",
+   "url": "https://www.wired.com/story/best-pickleball-paddles/",
+   "summary": "Paddles are getting more sophisticated and expensive. We’ve tested 100+ over the years to find our favorites.",
+   "source": "Wired",
+   "category": "general",
+   "published": "2026-11-14T10:37:00+00:00"
+  },
+  {
+   "id": "e57cfb8dbca6e68e",
+   "title": "Floods Force Gaza to Choose Between Clean Water and Pumping Out Sewage",
+   "url": "https://www.wired.com/story/gaza-floods-are-forcing-a-choice-between-pumping-out-sewage-and-pumping-in-water/",
+   "summary": "As Israeli restrictions limit repairs in Gaza, fuel is being diverted from wells to drainage pumps.",
+   "source": "Wired",
+   "category": "general",
+   "published": "2026-11-14T10:30:00+00:00"
+  },
+  {
+   "id": "ad306b16c1bb8d28",
+   "title": "Stanford Research Open-Sources Memorilla, a Latent Memory Module for Frozen LLMs",
+   "url": "https://www.marktechpost.com/2026/11/14/stanford-memorilla-memory-system-16-memory-tokens/",
+   "summary": "Stanford researchers released Memorilla, an open-source memory system that compresses a document collection into 16 memory tokens for a frozen Qwen3-8B. It reaches 84.33% on FactKG using 108x fewer document tokens than full context. The post Stanford Research Open-Sources…",
+   "source": "MarkTechPost",
+   "category": "ia",
+   "published": "2026-11-14T10:21:21+00:00"
+  },
+  {
+   "id": "d7a896eac9b52ba6",
+   "title": "We Asked Vogue, GQ, and a Pro Stylist to Kill Jensen Huang’s Leather Jacket",
+   "url": "https://www.wired.com/story/with-the-help-of-vogue-gq-and-a-pro-stylist-wired-revamps-jensen-huang/",
+   "summary": "The signature moto jacket has officially worn out its welcome. Here’s how fashion’s pros would rebrand him.",
+   "source": "Wired",
+   "category": "general",
+   "published": "2026-11-14T10:15:00+00:00"
+  },
+  {
+   "id": "5e63fa53ad1404c7",
+   "title": "Thanksgiving Meal Deals Roundup (2026): Walmart, Amazon, Target",
+   "url": "https://www.wired.com/story/thanksgiving-meal-deals-2026/",
+   "summary": "Here’s how to get your bird and all the trimmings on a budget.",
+   "source": "Wired",
+   "category": "general",
+   "published": "2026-11-14T10:00:00+00:00"
+  },
+  {
+   "id": "94e7e20952b83e23",
+   "title": "These ‘Ghostly’ Galaxies Have Lost Their Dark Matter",
+   "url": "https://www.wired.com/story/these-ghostly-galaxies-have-lost-their-dark-matter/",
+   "summary": "The galaxies’ dark matter was ejected during a collision, but ironically, its absence is some of the best evidence of the elusive substance yet.",
+   "source": "Wired",
+   "category": "general",
+   "published": "2026-11-14T10:00:00+00:00"
+  },
+  {
+   "id": "d73553036ac227c2",
+   "title": "Outlook Went Down? Microsoft May Owe You Money",
+   "url": "https://www.wired.com/story/outlook-went-down-microsoft-may-owe-you-money/",
+   "summary": "If your Microsoft business services were offline last week, you’re probably entitled to a partial credit on your next monthly bill.",
+   "source": "Wired",
+   "category": "general",
+   "published": "2026-11-14T07:00:00+00:00"
+  },
+  {
+   "id": "87b8686439b2776f",
+   "title": "Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents",
+   "url": "https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/",
+   "summary": "Vercel Labs released Vercel UI SDK, an Apache-2.0 beta library of 50+ UI behaviors. Coding agents compose them into accessible components for React, Vue, Svelte, Solid and Web Components, with a bridge for direct UI control. The post Vercel Releases UI SDK: 50+ UI Behaviors for…",
+   "source": "MarkTechPost",
+   "category": "ia",
+   "published": "2026-11-14T06:38:14+00:00"
+  },
+  {
+   "id": "a719a956ac244291",
+   "title": "Paramount+ Coupon Codes and Deals for 2026",
+   "url": "https://www.wired.com/story/paramount-plus-coupon-code/",
+   "summary": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
+   "source": "Wired",
+   "category": "general",
+   "published": "2026-11-14T06:00:00+00:00"
+  },
+  {
+   "id": "fca00337d94759f6",
+   "title": "Disney Plus Discount Codes: 52% Off November 2026",
+   "url": "https://www.wired.com/story/disney-plus-discounts/",
+   "summary": "Cut your subscription costs with the latest active Disney+ bundle deals, verified student offers, and partner promotions.",
+   "source": "Wired",
+   "category": "general",
+   "published": "2026-11-14T06:00:00+00:00"
+  },
+  {
+   "id": "f1d12a18d603ec12",
+   "title": "Klook Promo Code: 20% Off November 2026",
+   "url": "https://www.wired.com/story/klook-promo-code/",
+   "summary": "Maximize your travel budget with our expert guide to finding Klook coupons, app-exclusive deals, and payment discounts on tours, hotels, and transport.",
+   "source": "Wired",
+   "category": "general",
+   "published": "2026-11-14T06:00:00+00:00"
+  },
+  {
+   "id": "43218cfe460335a9",
+   "title": "20% Off Samsung Promo Code | November 2026",
+   "url": "https://www.wired.com/story/samsung-promo-codes/",
+   "summary": "Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.",
+   "source": "Wired",
+   "category": "general",
+   "published": "2026-11-14T06:00:00+00:00"
+  },
+  {
+   "id": "a5e1a6249f5e388e",
+   "title": "Tuft & Needle Promo Codes: 20% Off | November 2026",
+   "url": "https://www.wired.com/story/tuft-and-needle-promo-code/",
+   "summary": "Save 30% on best-selling mattresses with our top Tuft & Needle coupon codes.",
+   "source": "Wired",
+   "category": "general",
+   "published": "2026-11-14T06:00:00+00:00"
+  },
+  {
+   "id": "17600d65bfc020dc",
+   "title": "Womanizer Coupons: Save 15% in November 2026",
+   "url": "https://www.wired.com/story/womanizer-coupon/",
+   "summary": "Save on the Womanizer Duo Premium and more with our latest Womanizer discount codes.",
+   "source": "Wired",
+   "category": "general",
+   "published": "2026-11-14T06:00:00+00:00"
+  },
+  {
+   "id": "ccc570e6e0220df4",
+   "title": "ABT Promo Codes & Discounts for November 2026",
+   "url": "https://www.wired.com/story/abt-promo-code/",
+   "summary": "Learn how to maximize your savings on major appliances, electronics, and mattresses using verified ABT discount codes, rebates, and special coupons, and save up to $1,200 in November 2026.",
+   "source": "Wired",
+   "category": "general",
+   "published": "2026-11-14T06:00:00+00:00"
+  },
+  {
+   "id": "972d98204f859191",
+   "title": "PlayStation Discount Code: 15% Off | November 2026",
+   "url": "https://www.wired.com/story/playstation-discount-code/",
+   "summary": "Want to stretch your gaming budget? Learn how to unlock massive savings on PS5 games, DualSense controllers, and PlayStation Plus memberships using gift cards and exclusive promotional codes.",
+   "source": "Wired",
+   "category": "general",
+   "published": "2026-11-14T06:00:00+00:00"
+  },
+  {
+   "id": "a33801e4ff465f4a",
+   "title": "Monkey Island: all 13 versions side by side",
+   "url": "https://monkeyisland.pages.dev/",
+   "summary": "Article URL: https://monkeyisland.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=50493904 Points: 351 # Comments: 121",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-11-14T04:23:30+00:00"
+  },
+  {
+   "id": "c6caa4d4f0b0e545",
+   "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+   "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+   "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 941 # Comments: 574",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-11-14T02:52:59+00:00"
+  },
+  {
+   "id": "6c41dcbf34a2266d",
+   "title": "Ggml v1.0.0",
+   "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+   "summary": "Article URL: https://github.com/ggml-org/ggml/releases/tag/v1.0.0 Comments URL: https://news.ycombinator.com/item?id=50493062 Points: 377 # Comments: 63",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-11-14T02:28:29+00:00"
+  },
+  {
+   "id": "1ff2d9e323bc2f07",
+   "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
+   "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
+   "summary": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety.\" More than four hours after the stop was issued, officials announced it was lifted at…",
+   "source": "The Verge",
+   "category": "general",
+   "published": "2026-11-14T01:53:04+00:00"
+  },
+  {
+   "id": "4a58886a7a4ae768",
+   "title": "The FAA Nationwide Ground Stop Is Over",
+   "url": "https://www.wired.com/story/the-faa-nationwide-ground-stop-is-over/",
+   "summary": "The five-hour ordeal ended Friday evening. Planes will be allowed to fly again, but the effects of the stoppage will be felt throughout the weekend.",
+   "source": "Wired",
+   "category": "general",
+   "published": "2026-11-14T01:46:40+00:00"
+  },
+  {
+   "id": "22f6a80f36c8f63a",
+   "title": "Pixel 11 Pro’s HiLight feature also now works on WhatsApp messages",
+   "url": "https://9to5google.com/2026/11/13/pixel-11-pro-hilight-whatsapp/",
+   "summary": "After being barebones at launch, Google is improving on Pixel 11 Pro’s Hilight feature with message support, now including WhatsApp. more…",
+   "source": "9to5Google",
+   "category": "general",
+   "published": "2026-11-14T01:15:00+00:00"
+  },
+  {
+   "id": "46f76adf161f546c",
+   "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+   "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
+   "summary": "One way or another, the company will get some more data on Saturday.",
+   "source": "Ars Technica",
+   "category": "general",
+   "published": "2026-11-14T00:49:13+00:00"
+  },
+  {
+   "id": "10c60fc60c0f0765",
+   "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+   "url": "https://unsloth.ai/docs/models/qwen3.8",
+   "summary": "Article URL: https://unsloth.ai/docs/models/qwen3.8 Comments URL: https://news.ycombinator.com/item?id=50491980 Points: 224 # Comments: 70",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-11-14T00:06:04+00:00"
+  },
+  {
+   "id": "04367a7d0b10c58a",
+   "title": "Amazon has a plan to index the world’s online shopping data",
+   "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+   "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less…",
+   "source": "The Verge",
+   "category": "general",
+   "published": "2026-11-13T23:49:11+00:00"
+  },
+  {
+   "id": "dcab381c8b78ddb1",
+   "title": "What happened to 3Com?",
+   "url": "https://dfarq.homeip.net/what-happened-to-3com/",
+   "summary": "Article URL: https://dfarq.homeip.net/what-happened-to-3com/ Comments URL: https://news.ycombinator.com/item?id=50491830 Points: 190 # Comments: 109",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-11-13T23:48:59+00:00"
+  },
+  {
+   "id": "7ab113adec142f4d",
+   "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
+   "url": "https://grounds.top/",
+   "summary": "Article URL: https://grounds.top/ Comments URL: https://news.ycombinator.com/item?id=50491545 Points: 196 # Comments: 24",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-11-13T23:17:39+00:00"
+  },
+  {
+   "id": "a3eec27e07e130fe",
+   "title": "FAA has lifted its third-ever nationwide ground stop",
+   "url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
+   "summary": "Secretary of Transportation Sean Duffy blamed obsolete equipment for the outage.",
+   "source": "Ars Technica",
+   "category": "general",
+   "published": "2026-11-13T23:17:38+00:00"
+  },
+  {
+   "id": "d25e210f3f7b1fa6",
+   "title": "Terminal borders that don't cost a cell",
+   "url": "https://www.joshka.net/cell-borders/",
+   "summary": "Article URL: https://www.joshka.net/cell-borders/ Comments URL: https://news.ycombinator.com/item?id=50491423 Points: 382 # Comments: 165",
+   "source": "Hacker News",
+   "category": "general",
+   "published": "2026-11-13T23:06:40+00:00"
+  },
+  {
+   "id": "57ae9f9b1f7656d9",
+   "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+   "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
+   "summary": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to upgrade.",
+   "source": "TechCrunch",
+   "category": "general",
+   "published": "2026-11-13T23:00:00+00:00"
+  },
+  {
+   "id": "0a8d54aa3c39aa93",
+   "title": "Tired of paying for cloud storage every month? pCloud’s Black Friday Lifetime deal is the cure for subscription fatigue",
+   "url": "https://9to5mac.com/2026/11/13/tired-paying-cloud-storage-every-month-pclouds-black-friday-lifetime-deal-cure-subscription-fatigue/",
+   "summary": "Software used to be a one-time purchase, but over time, with the addition of cloud storage and services, everything has become a subscription. One company even tried to make your car seat heaters a subscription . Count the subscriptions you’re paying for right now: iCloud, a…",
+   "source": "9to5Mac",
+   "category": "general",
+   "published": "2026-11-13T23:00:00+00:00"
+  },
+  {
+   "id": "ec577d4c46a6d8ce",
+   "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+   "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+   "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+   "source": "TechCrunch",
+   "category": "general",
+   "published": "2026-11-13T22:43:00+00:00"
+  },
+  {
+   "id": "189c9d9681577de6",
+   "title": "Best Early Black Friday AirPods Deals (2026)",
+   "url": "https://www.wired.com/story/best-early-black-friday-airpods-deals-11-13-2026/",
+   "summary": "Black Friday is still weeks away, but AirPods discounts are dropping early.",
+   "source": "Wired",
+   "category": "general",
+   "published": "2026-11-13T22:30:29+00:00"
+  },
+  {
+   "id": "ee23c902fd6a06fe",
+   "title": "Pixelated 125: Google’s glasses, Meta’s baggage",
+   "url": "https://9to5google.com/2026/11/13/pixelated-125-googles-glasses-metas-baggage/",
+   "summary": "Welcome to Pixelated episode 125. This week, Abner has tried out Google’s new lineup of “Intelligent Eyewear,” and he’s got plenty to share with Damien and Will. Can Google nail the smart glasses experience while digging itself out of a privacy hole Meta first dug? For as much…",
+   "source": "9to5Google",
+   "category": "general",
+   "published": "2026-11-13T22:00:00+00:00"
+  },
+  {
+   "id": "2c75a66fbe723fbe",
+   "title": "Apple details HomeView facial recognition, repair options, and more in new support guides",
+   "url": "https://9to5mac.com/2026/11/13/apple-details-homeview-facial-recognition-repair-options-and-more-in-new-support-guides/",
+   "summary": "Coinciding with the launch of Apple HomeView, the company has been updating its support website with new guides covering everything from facial recognition and user profiles to troubleshooting and repairs. Here are the details. more…",
+   "source": "9to5Mac",
+   "category": "general",
+   "published": "2026-11-13T21:59:21+00:00"
+  },
+  {
+   "id": "d1bdb0722f55f2a3",
+   "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
+   "url": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/",
+   "summary": "Cost and access barriers are pushing people to modified use and unapproved versions.",
+   "source": "Ars Technica",
+   "category": "general",
+   "published": "2026-11-13T21:59:01+00:00"
+  },
+  {
+   "id": "0c34c8f3387b63b7",
+   "title": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
+   "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
+   "summary": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers,\" which manage the airspace across the United States.",
+   "source": "TechCrunch",
+   "category": "general",
+   "published": "2026-11-13T21:44:38+00:00"
+  },
+  {
+   "id": "83128b074022c3ef",
+   "title": "FAA Grounds All US Flights Until Further Notice",
+   "url": "https://www.wired.com/story/faa-grounds-all-us-flights-until-further-notice/",
+   "summary": "The government cited a nationwide communications failure among air traffic control systems as the reason for the sudden grounding on Friday.",
+   "source": "Wired",
+   "category": "general",
+   "published": "2026-11-13T21:42:57+00:00"
+  },
+  {
+   "id": "6b12221ebe1298a2",
+   "title": "The UGREEN HomeAgent is a ‘local-first’ way to make your smart home even smarter",
+   "url": "https://9to5google.com/2026/11/13/the-ugreen-homeagent-is-a-local-first-way-to-make-your-smart-home-even-smarter/",
+   "summary": "Smart home tech often relies solely on cloud connections and pricey AI subscriptions, but UGREEN is delivering a local-first solution in its new HomeAgent collection , delivering cameras, speakers, and more that bring the bulk of the functionality and processing directly to…",
+   "source": "9to5Google",
+   "category": "general",
+   "published": "2026-11-13T21:23:59+00:00"
+  },
+  {
+   "id": "c479f2841d4a388a",
+   "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+   "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+   "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+   "source": "Ars Technica",
+   "category": "general",
+   "published": "2026-11-13T21:20:47+00:00"
+  },
+  {
+   "id": "9dac422a5c30eb8a",
+   "title": "9to5Mac Overtime 090: iPhone Duo honeymoon",
+   "url": "https://9to5mac.com/2026/11/13/9to5mac-overtime-090-iphone-duo-honeymoon/",
+   "summary": "The Overtime crew revisits the iPhone Duo after prolonged usage. Is it still worth it without a telephoto lens or Face ID? We dig into its multitasking chops, standout FaceTime features, and how it stacks up against the Galaxy Z Fold 8. Plus, we break down Apple’s unprecedented…",
+   "source": "9to5Mac",
+   "category": "general",
+   "published": "2026-11-13T21:00:00+00:00"
+  },
+  {
+   "id": "951c84561943a913",
+   "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+   "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express,…",
+   "source": "The Verge",
+   "category": "general",
+   "published": "2026-11-13T20:45:10+00:00"
+  },
+  {
+   "id": "c407c87afb3e1969",
+   "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
+   "url": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
+   "summary": "Drogue is harvesting heat from the ocean to power data centers on floating vessels. The first prototype should be bobbing around the ocean, crunching bits, in less than two years.",
+   "source": "TechCrunch",
+   "category": "general",
+   "published": "2026-11-13T20:07:24+00:00"
+  },
+  {
+   "id": "577455be57bd818e",
+   "title": "In elephants, the resilience of communities has its limits",
+   "url": "https://arstechnica.com/science/2026/11/in-elephants-the-resilience-of-communities-has-its-limits/",
+   "summary": "In Sri Lanka, ecological change is shrinking a park's elephant population.",
+   "source": "Ars Technica",
+   "category": "general",
+   "published": "2026-11-13T20:03:13+00:00"
+  },
+  {
+   "id": "095fa52a4087260e",
+   "title": "Epic formally asks SCOTUS to uphold contempt ruling against Apple",
+   "url": "https://9to5mac.com/2026/11/13/epic-formally-asks-scotus-to-uphold-contempt-ruling-against-apple/",
+   "summary": "Epic Games has submitted its official response to Apple’s Supreme Court appeal, urging the justices to uphold the contempt ruling over App Store payment restrictions. Here are the details. more…",
+   "source": "9to5Mac",
+   "category": "general",
+   "published": "2026-11-13T20:00:50+00:00"
+  },
+  {
+   "id": "61497b9e7ad86e53",
+   "title": "Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good",
+   "url": "https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/",
+   "summary": "Trump son advised Kalshi and got equity while Trump admin helped Kalshi in lawsuits.",
+   "source": "Ars Technica",
+   "category": "general",
+   "published": "2026-11-13T19:49:16+00:00"
+  },
+  {
+   "id": "645e798427f902eb",
+   "title": "AI agent startup LangChain hits $3B valuation",
+   "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+   "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+   "source": "TechCrunch",
+   "category": "general",
+   "published": "2026-11-13T19:37:57+00:00"
+  },
+  {
+   "id": "a64912cefb0032fe",
+   "title": "Apple releases tvOS 27.2.1 and HomePod 27.2.1, here’s what’s new",
+   "url": "https://9to5mac.com/2026/11/13/apple-releases-tvos-27-2-1-and-homepod-27-2-1-heres-whats-new/",
+   "summary": "Apple has just released tvOS 27.2.1 for Apple TV 4K and HomePod 27.2.1 for HomePod models, here’s what’s new. more…",
+   "source": "9to5Mac",
+   "category": "general",
+   "published": "2026-11-13T19:33:08+00:00"
+  },
+  {
+   "id": "eacd1464b0e7197c",
+   "title": "Perplexity brings AI agents feature called Teammates to the Mac",
+   "url": "https://9to5mac.com/2026/11/13/perplexity-brings-ai-agents-feature-called-teammates-to-the-mac/",
+   "summary": "This week, Perplexity has deployed its new proactive agentic AI feature called Teammates to the Mac. Perplexity Teammates were previously limited to iOS and the web. more…",
+   "source": "9to5Mac",
+   "category": "general",
+   "published": "2026-11-13T19:31:05+00:00"
+  },
+  {
+   "id": "fabb0b03532a87c9",
+   "title": "Motorola MA2 wireless Android Auto adapter just vanished days after finally going on sale",
+   "url": "https://9to5google.com/2026/11/13/motorola-ma2-android-auto-amazon-delay/",
+   "summary": "The long-awaited Motorola MA2 wireless Android Auto adapter is gone just days after it went on sale. more…",
+   "source": "9to5Google",
+   "category": "general",
+   "published": "2026-11-13T19:30:00+00:00"
+  },
   {
    "id": "1e95014b591af476",
    "title": "Here’s how you can save on your GTA VI preorder ahead of launch",
@@ -258,6 +1194,15 @@
    "id": "1f7f7c9291b736a1",
    "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
    "url": "https://arstechnica.com/features/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+   "summary": "Researcher traces a path from AI reward hacking to potential human extinction.",
+   "source": "Ars Technica",
+   "category": "general",
+   "published": "2026-11-13T17:25:45+00:00"
+  },
+  {
+   "id": "743e8b03b2d96bb7",
+   "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+   "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
    "summary": "Researcher traces a path from AI reward hacking to potential human extinction.",
    "source": "Ars Technica",
    "category": "general",
@@ -982,6 +1927,15 @@
    "source": "Engadget",
    "category": "general",
    "published": "2026-11-13T08:12:48+00:00"
+  },
+  {
+   "id": "d1318183fe172893",
+   "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+   "url": "https://openai.com/business/customer-stories/shield",
+   "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+   "source": "OpenAI",
+   "category": "ia",
+   "published": "2026-11-13T08:00:00+00:00"
   },
   {
    "id": "15733917ca4ca271",
@@ -6931,6 +7885,15 @@
    "source": "Engadget",
    "category": "general",
    "published": "2026-11-09T13:40:54+00:00"
+  },
+  {
+   "id": "eed50b97e7877e59",
+   "title": "Import AI 480: Self-sustaining space economies; AI for science progress, and Meta builds perfect hands for a superintelligence",
+   "url": "https://importai.substack.com/p/import-ai-480-self-sustaining-space",
+   "summary": "When do you think we'll have robots on the moon?",
+   "source": "Import AI",
+   "category": "ia",
+   "published": "2026-11-09T13:31:34+00:00"
   },
   {
    "id": "b09ab79ba3e1e0f9",
@@ -15474,6 +16437,15 @@
    "published": "2026-11-02T14:42:38+00:00"
   },
   {
+   "id": "9091e4453210d34c",
+   "title": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
+   "url": "https://importai.substack.com/p/import-ai-479-spacewar-low-latency",
+   "summary": "What do LLMs think about vision models?",
+   "source": "Import AI",
+   "category": "ia",
+   "published": "2026-11-02T14:30:54+00:00"
+  },
+  {
    "id": "4d17d12c27bcdc4d",
    "title": "Here’s what’s coming for the MacBook Pro next year, per report",
    "url": "https://9to5mac.com/2026/11/02/heres-whats-coming-for-the-macbook-pro-next-year-per-report/",
@@ -16552,897 +17524,6 @@
    "source": "The Verge",
    "category": "general",
    "published": "2026-10-31T17:50:12+00:00"
-  },
-  {
-   "id": "ab4cee5296758695",
-   "title": "How building a cheap home server could save you money in the long run",
-   "url": "https://www.engadget.com/2301243/how-building-cheap-home-server-save-money/",
-   "summary": "Using an old PC to create your own server can save you quite a bit of money through a couple of avenues. Here's what it can do.",
-   "source": "Engadget",
-   "category": "general",
-   "published": "2026-10-31T16:45:00+00:00"
-  },
-  {
-   "id": "76a71e180324b8a1",
-   "title": "Why your Spotify might be using so much storage",
-   "url": "https://www.engadget.com/2300259/why-spotify-uses-so-much-storage/",
-   "summary": "Spotify can be a storage hog if you don't have your device's settings optimized. Here's what you can do if Spotify is taking up too much storage.",
-   "source": "Engadget",
-   "category": "general",
-   "published": "2026-10-31T16:30:00+00:00"
-  },
-  {
-   "id": "3b5c67e55670448f",
-   "title": "Enlightenment 0.28 Released with Many Improvements",
-   "url": "https://www.phoronix.com/news/Enlightenment-0.28",
-   "summary": "Article URL: https://www.phoronix.com/news/Enlightenment-0.28 Comments URL: https://news.ycombinator.com/item?id=50317534 Points: 7 # Comments: 2",
-   "source": "Hacker News",
-   "category": "general",
-   "published": "2026-10-31T16:22:26+00:00"
-  },
-  {
-   "id": "827536c436297ed4",
-   "title": "A/SIDE – Private photo sharing and encrypted messages",
-   "url": "https://a-side.social/",
-   "summary": "Article URL: https://a-side.social/ Comments URL: https://news.ycombinator.com/item?id=50317484 Points: 3 # Comments: 0",
-   "source": "Hacker News",
-   "category": "general",
-   "published": "2026-10-31T16:16:20+00:00"
-  },
-  {
-   "id": "f0f6addffba77995",
-   "title": "How long is too long for a USB cable?",
-   "url": "https://www.engadget.com/2301242/how-long-should-usb-cable-be-maximum-length/",
-   "summary": "USB cables, much like their HDMI cousins, have limits on how long they can be. The thing is, those limits are probably much lower than you expected.",
-   "source": "Engadget",
-   "category": "general",
-   "published": "2026-10-31T16:15:00+00:00"
-  },
-  {
-   "id": "344dcf79744aa216",
-   "title": "OpenAI reportedly lowers funding target for new round",
-   "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-   "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
-   "source": "TechCrunch",
-   "category": "general",
-   "published": "2026-10-31T16:12:55+00:00"
-  },
-  {
-   "id": "46dfca5bd8528132",
-   "title": "What is a light-day? The milestone Voyager 1 is closing in on",
-   "url": "https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/",
-   "summary": "Article URL: https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/ Comments URL: https://news.ycombinator.com/item?id=50317429 Points: 13 # Comments: 0",
-   "source": "Hacker News",
-   "category": "general",
-   "published": "2026-10-31T16:09:55+00:00"
-  },
-  {
-   "id": "56282c42c0bf35b2",
-   "title": "NASA's second year-long Mars simulation mission ends today",
-   "url": "https://www.engadget.com/2303277/nasa-second-year-long-mars-simulation-mission-ends-today/",
-   "summary": "The second crew that spent a year inside NASA's simulated Mars habitat is emerging today, and the agency will stream it live.",
-   "source": "Engadget",
-   "category": "general",
-   "published": "2026-10-31T16:07:17+00:00"
-  },
-  {
-   "id": "ed0268fa6e325c7b",
-   "title": "I built an AI Tamagotchi before Meta could",
-   "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
-   "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home. It…",
-   "source": "The Verge",
-   "category": "general",
-   "published": "2026-10-31T16:05:00+00:00"
-  },
-  {
-   "id": "f45c08dad587dbd8",
-   "title": "Casio Watches of the 1980s",
-   "url": "https://www.casio.com/us/watches/50th/Heritage/1980s/",
-   "summary": "Article URL: https://www.casio.com/us/watches/50th/Heritage/1980s/ Comments URL: https://news.ycombinator.com/item?id=50317363 Points: 29 # Comments: 6",
-   "source": "Hacker News",
-   "category": "general",
-   "published": "2026-10-31T16:00:48+00:00"
-  },
-  {
-   "id": "58927327a75069ca",
-   "title": "GNSS Vs GPS: What's the difference?",
-   "url": "https://www.engadget.com/2300262/gnss-vs-gps-differences/",
-   "summary": "GNSS and GPS are common terms in the world of satellite navigation. They may be similar, but there are some key differences between the two technologies.",
-   "source": "Engadget",
-   "category": "general",
-   "published": "2026-10-31T16:00:00+00:00"
-  },
-  {
-   "id": "d5f4073e9c4d3829",
-   "title": "Traveling with electronics? These 5 items could raise TSA red flags",
-   "url": "https://www.engadget.com/2301241/tsa-electronics-red-flags/",
-   "summary": "Travel is stressful enough. Here's what you should know about TSA rules on traveling with tech.",
-   "source": "Engadget",
-   "category": "general",
-   "published": "2026-10-31T15:45:00+00:00"
-  },
-  {
-   "id": "4f864d1c4d2da058",
-   "title": "MacBook Pro with PROLED XDR looks awesome, but I’m not rushing to upgrade",
-   "url": "https://9to5mac.com/2026/10/31/heres-why-im-not-rushing-to-buy-macbook-pro-oled/",
-   "summary": "After five years, Apple released its first major MacBook Pro overhaul since the M1 Pro/M1 Max models, and well… it was a little bit underwhelming from a design perspective. The product is incredible on many merits, but after seeing it, I’m not left feeling like I need to buy…",
-   "source": "9to5Mac",
-   "category": "general",
-   "published": "2026-10-31T15:42:26+00:00"
-  },
-  {
-   "id": "a901410d4ba94641",
-   "title": "Apple Maps begins blurring NASA, Space Force, and Air Force bases",
-   "url": "https://spaceexplored.com/2026/10/30/apple-maps-begins-blurring-nasa-space-force-and-air-force-bases/",
-   "summary": "You’re not a real space or aviation nerd unless you’ve taken to a map service and zoomed on the historic NASA launch pads or your local Air Force Bases, just for fun, you know? However, a recent change to Apple Maps now has some of those locations blurred from view, blocking…",
-   "source": "9to5Mac",
-   "category": "general",
-   "published": "2026-10-31T15:42:14+00:00"
-  },
-  {
-   "id": "5690fa4bc638870c",
-   "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
-   "url": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/",
-   "summary": "TikTok may be working to become the app that people use for most of their digital activities.",
-   "source": "TechCrunch",
-   "category": "general",
-   "published": "2026-10-31T15:41:57+00:00"
-  },
-  {
-   "id": "d2f9896dc712e390",
-   "title": "The Amazon Fire TV Stick setting you should try for better audio",
-   "url": "https://www.engadget.com/2299191/amazon-fire-tv-stick-setting-better-audio/",
-   "summary": "Dialogue is an important part of any movie or TV show, but it isn't always as clear as we would like. Amazon's Fire TV Stick has a solution.",
-   "source": "Engadget",
-   "category": "general",
-   "published": "2026-10-31T15:30:00+00:00"
-  },
-  {
-   "id": "8f692d08b5bec555",
-   "title": "Apple @ Work: Next to a growing token bill, Macs might start looking like a bargain",
-   "url": "https://9to5mac.com/2026/10/31/apple-work-next-to-a-token-bill-macs-might-start-looking-like-a-bargain/",
-   "summary": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at…",
-   "source": "9to5Mac",
-   "category": "general",
-   "published": "2026-10-31T15:19:00+00:00"
-  },
-  {
-   "id": "4cbbda2aa34cdeca",
-   "title": "What is the purpose of reposting on Instagram and how do you do it?",
-   "url": "https://www.engadget.com/2301218/repost-with-instagram-purpose-how-to-do/",
-   "summary": "It's the easiest way to share posts and reels you like with all of your followers.",
-   "source": "Engadget",
-   "category": "general",
-   "published": "2026-10-31T15:15:00+00:00"
-  },
-  {
-   "id": "7b5ed5dd303b816a",
-   "title": "Windows 11 tries new shortcuts for Xbox gaming mode and search",
-   "url": "https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings",
-   "summary": "The latest Windows 11 Insider build adds some powerful new search features and quick settings while in Xbox mode. The Xbox shortcuts let you control things like Bluetooth, WiFi, and power settings without having to exit gaming mode. The search improvements are quite…",
-   "source": "The Verge",
-   "category": "general",
-   "published": "2026-10-31T15:12:19+00:00"
-  },
-  {
-   "id": "507d80e05956cb80",
-   "title": "Sam Altman is upset at you for hoarding RAM in your own computer",
-   "url": "https://www.engadget.com/2303266/sam-altman-says-its-terrible-dram-computer/",
-   "summary": "Sam Altman, in an interview, said it's 'terrible' for people to have 'a bunch of the world's limited supply of DRAM' that they barely use.",
-   "source": "Engadget",
-   "category": "general",
-   "published": "2026-10-31T15:07:10+00:00"
-  },
-  {
-   "id": "e40050fcf4c191a3",
-   "title": "Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders",
-   "url": "https://www.theverge.com/gadgets/1023302/best-buy-gift-card-macbook-pro-proled-xdr-preorder-deal-sale",
-   "summary": "While the new touch-enabled MacBook Pro with the PROLED XDR screen is available for preorder across a few major retailers, Best Buy is sweetening the deal by including a $100 gift card. The gift card will be automatically added to your cart when you preorder one of Apple’s…",
-   "source": "The Verge",
-   "category": "general",
-   "published": "2026-10-31T15:00:00+00:00"
-  },
-  {
-   "id": "589329f72aa8c948",
-   "title": "Vic Mensa can’t live without the Voice Memos app",
-   "url": "https://www.theverge.com/entertainment/1023477/vic-mensa-voice-memos-app-interview",
-   "summary": "Vic Mensa is one of those people who has done so many things that it's hard to remember where you were first introduced to him. Was it his debut mixtape Innanetape, which finally hit the major streaming services for the first time in September? Or maybe his house-influenced…",
-   "source": "The Verge",
-   "category": "general",
-   "published": "2026-10-31T15:00:00+00:00"
-  },
-  {
-   "id": "b07be1ad38c140b3",
-   "title": "Is IMAX 3D a better experience than 2D? Here's what to know",
-   "url": "https://www.engadget.com/2300266/imax-3d-vs-2d-which-is-better-experience/",
-   "summary": "While IMAX 3D may sound bigger and better, there are a handful of distinct advantages and disadvantages to both movie-viewing experiences.",
-   "source": "Engadget",
-   "category": "general",
-   "published": "2026-10-31T15:00:00+00:00"
-  },
-  {
-   "id": "268d22094fdc9fde",
-   "title": "Ex-Meta Researcher Torrented Pirated Books, Deleted It 'Due to Litigation'",
-   "url": "https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/",
-   "summary": "Article URL: https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/ Comments URL: https://news.ycombinator.com/item?id=50316760 Points: 48 # Comments: 28",
-   "source": "Hacker News",
-   "category": "general",
-   "published": "2026-10-31T14:57:33+00:00"
-  },
-  {
-   "id": "379c3ae8a267083d",
-   "title": "Why SNES games are so expensive",
-   "url": "https://www.engadget.com/2301220/why-snes-games-so-expensive/",
-   "summary": "Scarcity and increased interest in retro games makes for an expensive combo.",
-   "source": "Engadget",
-   "category": "general",
-   "published": "2026-10-31T14:45:00+00:00"
-  },
-  {
-   "id": "868c6dcfd5742d15",
-   "title": "5 Samsung One UI features you won't get with other Android phones",
-   "url": "https://www.engadget.com/2299207/one-ui-features-not-on-other-androids/",
-   "summary": "Samsung doesn't just make great phone and tablet hardware; its One UI is also a standout, offering many features you just can't get elsewhere.",
-   "source": "Engadget",
-   "category": "general",
-   "published": "2026-10-31T14:30:00+00:00"
-  },
-  {
-   "id": "5be14df72cefaec0",
-   "title": "Malware uses LLMs to rank victims by how much they're worth",
-   "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
-   "summary": "Article URL: https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/ Comments URL: https://news.ycombinator.com/item?id=50316531 Points: 79 # Comments: 19",
-   "source": "Hacker News",
-   "category": "general",
-   "published": "2026-10-31T14:29:03+00:00"
-  },
-  {
-   "id": "7cf0f6b0a9a879a8",
-   "title": "9to5Mac Overtime 088: Finally, a touchscreen MacBook",
-   "url": "https://9to5mac.com/2026/10/31/9to5mac-overtime-088-finally-a-touchscreen-macbook/",
-   "summary": "Jeff and Fernando discuss everything from Apple’s big week of new hardware releases, including the M6 MacBook Pro, iPad mini 8 with OLED, and, of course, Apple’s new MacBook Pro w/ PROLED XDR Display. Is finally having a touchscreen Mac resonating with the Overtime crew? Tune…",
-   "source": "9to5Mac",
-   "category": "general",
-   "published": "2026-10-31T14:17:15+00:00"
-  },
-  {
-   "id": "26eb5dece1b0cb34",
-   "title": "What is a PDF reader and do you really need a dedicated one on your phone?",
-   "url": "https://www.engadget.com/2300318/what-is-pdf-reader-do-you-need-on-phone/",
-   "summary": "If you don't know what a PDF reader for your phone is, this is the time to learn about it all. You may be in need of one to make your life easier.",
-   "source": "Engadget",
-   "category": "general",
-   "published": "2026-10-31T14:15:00+00:00"
-  },
-  {
-   "id": "7d23de49dd5749ba",
-   "title": "I took two iPhones on vacation. The Duo won me over.",
-   "url": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
-   "summary": "The iPhone Duo has its frustrations, but it’s also fun and engaging enough that I didn’t want to switch back to my Pro Max.",
-   "source": "TechCrunch",
-   "category": "general",
-   "published": "2026-10-31T14:00:00+00:00"
-  },
-  {
-   "id": "f85db72caeba52c3",
-   "title": "Microsoft really wants you to sell that Xbox you're not using",
-   "url": "https://www.engadget.com/2299867/microsoft-really-wants-you-to-sell-that-xbox-youre-not-using/",
-   "summary": "Microsoft wants owners to trade in their unused Xbox Series X and S consoles. Here's what's behind the push, and what to know before you take the deal.",
-   "source": "Engadget",
-   "category": "general",
-   "published": "2026-10-31T14:00:00+00:00"
-  },
-  {
-   "id": "eead8c36cc6e2360",
-   "title": "CDs are back, but they come with a modern problem",
-   "url": "https://www.engadget.com/2298767/cds-are-back-modern-listening-complicated/",
-   "summary": "With CD sales on the rise again, collectors are finding that enjoying their favorite tunes is more challenging than ever in the modern audio landscape.",
-   "source": "Engadget",
-   "category": "general",
-   "published": "2026-10-31T13:45:00+00:00"
-  },
-  {
-   "id": "810faf01d5162325",
-   "title": "Jepsen: ParticleDB 1.1.4",
-   "url": "https://jepsen.io/analyses/particledb-1.1.4",
-   "summary": "Article URL: https://jepsen.io/analyses/particledb-1.1.4 Comments URL: https://news.ycombinator.com/item?id=50316100 Points: 11 # Comments: 3",
-   "source": "Hacker News",
-   "category": "general",
-   "published": "2026-10-31T13:39:52+00:00"
-  },
-  {
-   "id": "cd476e605cfe4c85",
-   "title": "Here's how much the iPhone Pro cost in 2019 vs. 2026",
-   "url": "https://www.engadget.com/2300201/how-much-iphone-pro-cost-2021-vs-2026/",
-   "summary": "The iPhone Pro has changed plenty since it was released in 2019, but how do the 2026 iPhone Pro prices fare in comparison with its original price?",
-   "source": "Engadget",
-   "category": "general",
-   "published": "2026-10-31T13:30:00+00:00"
-  },
-  {
-   "id": "c300d360cb3cbd4f",
-   "title": "Why you should never point a laser pointer at any aircraft",
-   "url": "https://www.engadget.com/2301206/why-you-should-never-point-a-laser-pointer-at-any-aircraft/",
-   "summary": "Unfortunately, some people need to hear this.",
-   "source": "Engadget",
-   "category": "general",
-   "published": "2026-10-31T13:15:00+00:00"
-  },
-  {
-   "id": "1e8f55161682b8f8",
-   "title": "Why your games take up way more drive space than expected (even when uninstalled)",
-   "url": "https://www.engadget.com/2299478/games-take-up-more-drive-space-expected/",
-   "summary": "Even after uninstalling a game, there are often remnants of data left in your storage. Some you may want to leave, and some you should delete manually.",
-   "source": "Engadget",
-   "category": "general",
-   "published": "2026-10-31T13:00:00+00:00"
-  },
-  {
-   "id": "ac4d7d9bec0be108",
-   "title": "How to improve audio quality on your Android phone with Bluetooth or wired headphones",
-   "url": "https://www.engadget.com/2298724/how-to-improve-android-phone-audio-quality-with-bluetooth-wired-headphones/",
-   "summary": "Maximizing your listening experience on Android can get very complicated, but we'll guide you through settings and headphone choices to get you there.",
-   "source": "Engadget",
-   "category": "general",
-   "published": "2026-10-31T12:45:00+00:00"
-  },
-  {
-   "id": "a7b214da15e037c3",
-   "title": "What happens when AI starts self-replicating?",
-   "url": "https://www.engadget.com/2302896/what-happens-when-ai-starts-self-replicating/",
-   "summary": "Anthropic warns that future is soon, but the threat is less novel than it seems.",
-   "source": "Engadget",
-   "category": "general",
-   "published": "2026-10-31T12:30:00+00:00"
-  },
-  {
-   "id": "0b58bfa85dcc8db3",
-   "title": "Touchscreens everywhere!",
-   "url": "https://www.theverge.com/tech/1023569/ipad-mini-alexa-photo-frame-readwise-installer",
-   "summary": "Hi, friends! Welcome to Installer No. 150, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy Halloween, and also you can read all the old editions at the Installer homepage.) This week, I was in the Smoky Mountains in Tennessee on a…",
-   "source": "The Verge",
-   "category": "general",
-   "published": "2026-10-31T12:00:00+00:00"
-  },
-  {
-   "id": "fe0e51086ed465dc",
-   "title": "Here’s why you can’t shake those unhinged political texts",
-   "url": "https://www.theverge.com/policy/1023899/political-texts-midterm-elections",
-   "summary": "\"Its James Talarico. Can you please please please please pretty pretty please rush in even just $1?\" \"Who's working to elect James Talarico? Marxists.\" \"Wow! Wow! Wow! Mark Kelly just made a HUGE announcement!\" \"We asked Ben Verlander, MLB analyst and former Tigers prospect, to…",
-   "source": "The Verge",
-   "category": "general",
-   "published": "2026-10-31T12:00:00+00:00"
-  },
-  {
-   "id": "bc2326c848ae38f0",
-   "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
-   "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
-   "summary": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
-   "source": "Wired",
-   "category": "general",
-   "published": "2026-10-31T12:00:00+00:00"
-  },
-  {
-   "id": "0513b6bd20be466f",
-   "title": "Motorola Signature 27 specs detailed in new video, including Tandem OLED display",
-   "url": "https://9to5google.com/2026/10/31/motorola-signature-27-specs-hands-on/",
-   "summary": "Ahead of its launch next week, a new video offers a closer look at the Motorola Signature 27 as well as confirming some key specs. more…",
-   "source": "9to5Google",
-   "category": "general",
-   "published": "2026-10-31T12:00:00+00:00"
-  },
-  {
-   "id": "a87530044b0beb46",
-   "title": "Prospero: A new coding harness for a more civilized age",
-   "url": "https://nullprogram.com/blog/2026/10/31/",
-   "summary": "Article URL: https://nullprogram.com/blog/2026/10/31/ Comments URL: https://news.ycombinator.com/item?id=50315226 Points: 122 # Comments: 78",
-   "source": "Hacker News",
-   "category": "general",
-   "published": "2026-10-31T11:54:59+00:00"
-  },
-  {
-   "id": "e58df0c82cd4e2a2",
-   "title": "Seabirds racing home over the ocean can get jet-lagged",
-   "url": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
-   "summary": "A long flight home from feeding grounds messes with birds' internal clocks.",
-   "source": "Ars Technica",
-   "category": "general",
-   "published": "2026-10-31T11:15:26+00:00"
-  },
-  {
-   "id": "58f1874bf514e218",
-   "title": "The FDA wants to pull its approval of a drug. It’s not so easy.",
-   "url": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/",
-   "summary": "The regulator says Tavneos was approved on the basis of manipulated study data. Should patients still have access to it?",
-   "source": "Ars Technica",
-   "category": "general",
-   "published": "2026-10-31T11:02:34+00:00"
-  },
-  {
-   "id": "aa5b372385b66a52",
-   "title": "Govee Christmas Lights 2 Deal: Save $25 on These Smart String Lights",
-   "url": "https://www.wired.com/story/govee-christmas-lights-deal-october-2026/",
-   "summary": "Glow up your home indoors or out with these versatile, discounted, full color smart string lights. They’re WIRED-tested and 25 percent off right now.",
-   "source": "Wired",
-   "category": "general",
-   "published": "2026-10-31T11:00:00+00:00"
-  },
-  {
-   "id": "ef4444f09a8313cf",
-   "title": "There’s a Completely New Type of Whisky. It’s French and Made in Concrete Eggs",
-   "url": "https://www.wired.com/story/theres-a-completely-new-type-of-whisky-its-french-and-made-in-concrete-eggs/",
-   "summary": "The founders of Maison Lineti are, in a world first, making single malt whisky as if it were wine—and the spirit world is mighty impressed.",
-   "source": "Wired",
-   "category": "general",
-   "published": "2026-10-31T11:00:00+00:00"
-  },
-  {
-   "id": "a5c6759870e7a107",
-   "title": "Meet Factory Droid 1.0: A Model-Independent Coding Agent Harness Built on Script Mode",
-   "url": "https://www.marktechpost.com/2026/10/31/factory-droid-1-0-frontier-harness/",
-   "summary": "Factory released Droid 1.0, a model-independent coding agent harness that makes programmatic tool calling the default. On Factory’s own Terminal-Bench 4 runs, Droid scores 65.2% with Claude Opus 5.5 at $4.73 per passed task. The post Meet Factory Droid 1.0: A Model-Independent…",
-   "source": "MarkTechPost",
-   "category": "ia",
-   "published": "2026-10-31T10:38:14+00:00"
-  },
-  {
-   "id": "3ae2216aa1e5b07c",
-   "title": "Backup by Biolite Review: A Cool Idea",
-   "url": "https://www.wired.com/review/backup-by-biolite/",
-   "summary": "Backup by BioLite is designed to power your fridge when the grid goes down. It works, but protecting your ice cream doesn’t come cheap.",
-   "source": "Wired",
-   "category": "general",
-   "published": "2026-10-31T10:33:00+00:00"
-  },
-  {
-   "id": "381223935ae368b9",
-   "title": "We Took over ChatGPT Accounts",
-   "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-   "summary": "Article URL: https://www.parameter.ai/labs/we-found-a-gap-at-openai Comments URL: https://news.ycombinator.com/item?id=50314699 Points: 197 # Comments: 103",
-   "source": "Hacker News",
-   "category": "general",
-   "published": "2026-10-31T10:30:11+00:00"
-  },
-  {
-   "id": "2ec3abacf294146d",
-   "title": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
-   "url": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
-   "summary": "Companies have spent the past several weeks trying to reassure investors that Muse and other AI agents pose more of an opportunity than a threat.",
-   "source": "Wired",
-   "category": "general",
-   "published": "2026-10-31T10:30:00+00:00"
-  },
-  {
-   "id": "ec5c571f059ef5ef",
-   "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
-   "url": "https://piefed.world/post/1503394",
-   "summary": "Article URL: https://piefed.world/post/1503394 Comments URL: https://news.ycombinator.com/item?id=50314666 Points: 186 # Comments: 126",
-   "source": "Hacker News",
-   "category": "general",
-   "published": "2026-10-31T10:23:41+00:00"
-  },
-  {
-   "id": "0cc0a6009edfd9e8",
-   "title": "Serbia just elected the world's brainiest parliament",
-   "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
-   "summary": "Article URL: https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament Comments URL: https://news.ycombinator.com/item?id=50314654 Points: 616 # Comments: 357",
-   "source": "Hacker News",
-   "category": "general",
-   "published": "2026-10-31T10:21:30+00:00"
-  },
-  {
-   "id": "78c1c1a14c878c2e",
-   "title": "Vercel Labs Open-Sources agent-desktop for Agent Computer Use",
-   "url": "https://www.marktechpost.com/2026/10/31/vercel-labs-agent-desktop-computer-use/",
-   "summary": "Vercel Labs released agent-desktop, an Apache-2.0 Rust CLI that gives any AI agent computer use on macOS, Windows and Linux by reading OS accessibility trees and acting on stable refs instead of pixels. The post Vercel Labs Open-Sources agent-desktop for Agent Computer Use…",
-   "source": "MarkTechPost",
-   "category": "ia",
-   "published": "2026-10-31T10:10:28+00:00"
-  },
-  {
-   "id": "44be6d9cd9ecf4d0",
-   "title": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
-   "url": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
-   "summary": "A biotech startup let an agent choose a gene therapy and successfully inject the treatment, offering a startling glimpse of the future of research labs.",
-   "source": "Wired",
-   "category": "general",
-   "published": "2026-10-31T10:00:00+00:00"
-  },
-  {
-   "id": "4d6492bda7ba20f1",
-   "title": "Bose QC Headphones (2nd Gen) Sale: Lowest Price Ahead of Black Friday",
-   "url": "https://www.wired.com/story/bose-deals-october-2026/",
-   "summary": "They’re a steal at over 40 percent off in multiple colors. Plus, other great Bose deals you should know about ahead of Black Friday.",
-   "source": "Wired",
-   "category": "general",
-   "published": "2026-10-31T10:00:00+00:00"
-  },
-  {
-   "id": "8e141f4fc5e8edf7",
-   "title": "Keurig Alta Brewer Review: Brand-New Tech, Classically Good Coffee",
-   "url": "https://www.wired.com/review/keurig-alta-brewer/",
-   "summary": "This multifaceted home coffee brewer and its new AltaRounds will make you rethink everything you know about Keurig machines.",
-   "source": "Wired",
-   "category": "general",
-   "published": "2026-10-31T09:35:00+00:00"
-  },
-  {
-   "id": "49e9ce27009db828",
-   "title": "Are Memories Transferable? Meet the Scientists Replicating an Infamous Study to Find Out",
-   "url": "https://www.wired.com/story/are-memories-transferable-meet-the-scientists-replicating-an-infamous-study-to-find-out/",
-   "summary": "In the 1960’s, an odd experiment showed planarian worms could transfer memories by consuming each other. It was a sensational finding—that is until the worms stopped learning.",
-   "source": "Wired",
-   "category": "general",
-   "published": "2026-10-31T09:30:00+00:00"
-  },
-  {
-   "id": "c31df6eb88e549c2",
-   "title": "Best Sunrise Alarm Clock (2026): Hatch, Lumie",
-   "url": "https://www.wired.com/story/should-you-get-a-sunrise-alarm-clock/",
-   "summary": "I’ve never been a morning person. This bedside gadget is the only thing that’s ever changed that.",
-   "source": "Wired",
-   "category": "general",
-   "published": "2026-10-31T09:01:00+00:00"
-  },
-  {
-   "id": "6e1923fb5008162d",
-   "title": "White Dwarfs Aren’t Just White. Scientists Discover Dying Stars Turning Pink and Green",
-   "url": "https://www.wired.com/story/white-dwarfs-arent-just-white-scientists-discover-dying-stars-turning-pink-and-green/",
-   "summary": "Astronomers find that a white dwarf’s density and the kind of material it absorbed from its surroundings can produce a rainbow of shades in the star’s atmosphere.",
-   "source": "Wired",
-   "category": "general",
-   "published": "2026-10-31T09:00:00+00:00"
-  },
-  {
-   "id": "0896eaf21379ccf6",
-   "title": "Switch Lowering in GCC",
-   "url": "https://xoranth.net/gcc-switch/",
-   "summary": "Article URL: https://xoranth.net/gcc-switch/ Comments URL: https://news.ycombinator.com/item?id=50314085 Points: 143 # Comments: 29",
-   "source": "Hacker News",
-   "category": "general",
-   "published": "2026-10-31T08:02:26+00:00"
-  },
-  {
-   "id": "73acf00ea16812b9",
-   "title": "Digital minimalism",
-   "url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
-   "summary": "Article URL: https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html Comments URL: https://news.ycombinator.com/item?id=50313661 Points: 192 # Comments: 141",
-   "source": "Hacker News",
-   "category": "general",
-   "published": "2026-10-31T06:16:36+00:00"
-  },
-  {
-   "id": "f95b91c9a43348ba",
-   "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
-   "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
-   "summary": "The money behind the money is thrilled, mostly.",
-   "source": "TechCrunch",
-   "category": "general",
-   "published": "2026-10-31T04:16:50+00:00"
-  },
-  {
-   "id": "c80cb208774f3699",
-   "title": "Tell HN: Scribd Breached",
-   "url": "https://news.ycombinator.com/item?id=50312756",
-   "summary": "Not seeing anything posted about this anywhere, received on Monday, 26th of Oct 2026: Subject: Notice of Security Incident This notice is being sent on behalf of Scribd, Inc., the parent company of Scribd, Slideshare, Everand, and Fable, by Epiq, Scribd Inc.’s notification…",
-   "source": "Hacker News",
-   "category": "general",
-   "published": "2026-10-31T02:46:36+00:00"
-  },
-  {
-   "id": "6336aff37e57b820",
-   "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-   "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-   "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
-   "source": "TechCrunch",
-   "category": "general",
-   "published": "2026-10-31T01:20:05+00:00"
-  },
-  {
-   "id": "cee71cdf7fb1db2f",
-   "title": "Samsung mercilessly mocks iPhone Duo ‘crackgate’ in Galaxy Z Fold 8 ads [Video]",
-   "url": "https://9to5google.com/2026/10/30/samsung-mocks-iphone-duo-crackgate-galaxy-z-fold-8/",
-   "summary": "Samsung isn’t holding back when it comes to the iPhone Duo’s messy start. In new ads, the company mocks iPhone Duo’s “crackgate” with a push for customers to buy the Galaxy Z Fold 8 instead, and there’s not an ounce of subtlety here. more…",
-   "source": "9to5Google",
-   "category": "general",
-   "published": "2026-10-31T01:20:00+00:00"
-  },
-  {
-   "id": "e3210edcb7e93dd7",
-   "title": "Download all 20 Apple HomeView wallpapers in light and dark mode here",
-   "url": "https://9to5mac.com/2026/10/30/download-all-20-apple-homeview-wallpapers-in-light-and-dark-mode-here/",
-   "summary": "Apple tonight rolled out the HomeView 27.2 system update, ahead of the device’s official launch on November 13. The update includes the device’s default wallpapers, each available in light and dark variations, which you can download below. more…",
-   "source": "9to5Mac",
-   "category": "general",
-   "published": "2026-10-31T01:03:35+00:00"
-  },
-  {
-   "id": "e7a0d7ebfffdbdc5",
-   "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
-   "url": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
-   "summary": "The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere.",
-   "source": "Ars Technica",
-   "category": "general",
-   "published": "2026-10-31T00:07:22+00:00"
-  },
-  {
-   "id": "eb55cbf35cd7f9bd",
-   "title": "WhatsApp announces four new features to make group chats easier to manage",
-   "url": "https://9to5mac.com/2026/10/30/whatsapp-announces-four-new-features-to-make-group-chats-easier-to-manage/",
-   "summary": "In a blog post this week, WhatsApp confirmed that it is rolling out four new features designed to make it easier to manage group chats and keep track of what’s going on in each one. Here are the details. more…",
-   "source": "9to5Mac",
-   "category": "general",
-   "published": "2026-10-30T23:36:34+00:00"
-  },
-  {
-   "id": "b177eb467d5dd1ed",
-   "title": "9to5Mac Daily: October 30, 2026 – New HomePod features, more",
-   "url": "https://9to5mac.com/2026/10/30/daily-october-30-2026/",
-   "summary": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can…",
-   "source": "9to5Mac",
-   "category": "general",
-   "published": "2026-10-30T23:25:16+00:00"
-  },
-  {
-   "id": "d32a73c825024427",
-   "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
-   "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
-   "summary": "The AI logistics startup will bolster the CRM giant's Missionforce defense platform.",
-   "source": "TechCrunch",
-   "category": "general",
-   "published": "2026-10-30T23:21:23+00:00"
-  },
-  {
-   "id": "43523836c60442d9",
-   "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-   "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-   "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
-   "source": "TechCrunch",
-   "category": "general",
-   "published": "2026-10-30T22:56:13+00:00"
-  },
-  {
-   "id": "ec6205a7b9bc0e9a",
-   "title": "Apple confirms iOS 27.3 beta is coming next week with Apple Intelligence in China",
-   "url": "https://9to5mac.com/2026/10/30/apple-confirms-ios-27-3-beta-is-coming-next-week-with-apple-intelligence-in-china/",
-   "summary": "Apple today took the unusual step of confirming when its next iOS developer beta is expected to arrive, as part of an announcement detailing the upcoming launch of Apple Intelligence in China. Here are the details. more…",
-   "source": "9to5Mac",
-   "category": "general",
-   "published": "2026-10-30T22:37:36+00:00"
-  },
-  {
-   "id": "b1311b7a9510b7df",
-   "title": "Flesh-eating screwworms spread to third state and are attacking pets",
-   "url": "https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/",
-   "summary": "USDA has identified 74 animal cases in US since parasitic flies invaded in June.",
-   "source": "Ars Technica",
-   "category": "general",
-   "published": "2026-10-30T22:36:41+00:00"
-  },
-  {
-   "id": "011fdc062b2b84be",
-   "title": "Apple Intelligence is finally coming to China with iOS 27.3",
-   "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
-   "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3…",
-   "source": "The Verge",
-   "category": "general",
-   "published": "2026-10-30T22:32:53+00:00"
-  },
-  {
-   "id": "df4feec8b4d8c967",
-   "title": "Oh captain, our captain: Ars staff remembers Patrick Stewart",
-   "url": "https://arstechnica.com/culture/2026/10/oh-captain-our-captain-ars-staff-remembers-patrick-stewart/",
-   "summary": "\"For huge numbers of people, I will always be Jean-Luc Picard. ... We created an admirable individual.\"",
-   "source": "Ars Technica",
-   "category": "general",
-   "published": "2026-10-30T22:21:05+00:00"
-  },
-  {
-   "id": "73b24be5cb47b6fb",
-   "title": "Google Pixel Watch 5 Sale: Its Lowest Price Yet (2026)",
-   "url": "https://www.wired.com/story/googles-pixel-watch-5-is-down-to-its-lowest-price-yet/",
-   "summary": "Google’s latest smartwatch packs great new health and fitness features, and it’s already on sale ahead of Black Friday.",
-   "source": "Wired",
-   "category": "general",
-   "published": "2026-10-30T22:15:06+00:00"
-  },
-  {
-   "id": "6198118eee1371c7",
-   "title": "Intel’s stock crashes, knocking $12B from government’s stake",
-   "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
-   "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
-   "source": "TechCrunch",
-   "category": "general",
-   "published": "2026-10-30T21:54:34+00:00"
-  },
-  {
-   "id": "60ba719a05749cde",
-   "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-   "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-   "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
-   "source": "TechCrunch",
-   "category": "general",
-   "published": "2026-10-30T21:52:03+00:00"
-  },
-  {
-   "id": "632ce12363264393",
-   "title": "Applebee’s exposed customers’ personal data after leaving database password in app",
-   "url": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/",
-   "summary": "EXCLUSIVE: A security researcher discovered the hardcoded credential in Applebee's app, allowing unrestricted access to customers' personal data.",
-   "source": "TechCrunch",
-   "category": "general",
-   "published": "2026-10-30T21:48:53+00:00"
-  },
-  {
-   "id": "f51309efb1dbe433",
-   "title": "‘Pluribus’ season 2 reportedly begins filming tomorrow",
-   "url": "https://9to5mac.com/2026/10/30/pluribus-season-2-reportedly-begins-filming-tomorrow/",
-   "summary": "According to a report published earlier this month, the second season of Apple TV’s acclaimed sci-fi drama ‘ Pluribus ’ is scheduled to begin filming tomorrow, October 31, in Albuquerque, New Mexico. Here’s what we know. more…",
-   "source": "9to5Mac",
-   "category": "general",
-   "published": "2026-10-30T21:44:44+00:00"
-  },
-  {
-   "id": "df26d5473c418f43",
-   "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
-   "url": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
-   "summary": "Boom’s airliner may be delayed, and its data center power business lost a customer.",
-   "source": "Ars Technica",
-   "category": "general",
-   "published": "2026-10-30T21:41:54+00:00"
-  },
-  {
-   "id": "0806533d8a710536",
-   "title": "Last-minute Halloween costumes for tech nerds",
-   "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
-   "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
-   "source": "TechCrunch",
-   "category": "general",
-   "published": "2026-10-30T21:26:59+00:00"
-  },
-  {
-   "id": "a7904f9e100d0cfb",
-   "title": "How a Contractor’s Claude Agent Got Into the Pentagon",
-   "url": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
-   "summary": "This week on Uncanny Valley, we also discuss Anthropic’s IPO filing and the volunteers gearing up to counter ICE at the midterms.",
-   "source": "Wired",
-   "category": "general",
-   "published": "2026-10-30T21:19:26+00:00"
-  },
-  {
-   "id": "f1f6194d20367130",
-   "title": "Cracks are emerging in the AI spending boom",
-   "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
-   "summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
-   "source": "TechCrunch",
-   "category": "general",
-   "published": "2026-10-30T21:17:40+00:00"
-  },
-  {
-   "id": "ce0cce9f3bc5563c",
-   "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
-   "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
-   "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
-   "source": "Ars Technica",
-   "category": "general",
-   "published": "2026-10-30T21:09:54+00:00"
-  },
-  {
-   "id": "d756b882783b2564",
-   "title": "Exclusive details about Akai’s MPC Sample Key",
-   "url": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive",
-   "summary": "Akai teased its new MPC Sample Key on Instagram earlier this week, and said it plans to open-source its software so the modding community can hack it to their hearts' delight. While there's no word yet on when the device will launch or how much it will cost, The Verge has…",
-   "source": "The Verge",
-   "category": "general",
-   "published": "2026-10-30T21:01:32+00:00"
-  },
-  {
-   "id": "72e1d6842f3dfb05",
-   "title": "Pixelated 123: The primary value is the clock",
-   "url": "https://9to5google.com/2026/10/30/pixelated-123-the-primary-value-is-the-clock/",
-   "summary": "Welcome to Pixelated episode 123. This week, Damien and Abner share their earliest impressions of the Fitbit Edge, Google’s latest fitness tracker that promises to split the difference between the Fitbit Air and the Pixel Watch 5. After, the gang gets bleak about the future of…",
-   "source": "9to5Google",
-   "category": "general",
-   "published": "2026-10-30T21:00:00+00:00"
-  },
-  {
-   "id": "e6a83342c0c51d1e",
-   "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
-   "summary": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on…",
-   "source": "The Verge",
-   "category": "general",
-   "published": "2026-10-30T20:48:43+00:00"
-  },
-  {
-   "id": "36a00959dbee32f7",
-   "title": "‘Knives Out’ director launches iPhone camera app that shoots like his movies",
-   "url": "https://9to5mac.com/2026/10/30/knives-out-director-launches-iphone-camera-app-that-shoots-like-his-movies/",
-   "summary": "Hollywood director Rian Johnson ( Star Wars: The Last Jedi ) announced a new iPhone camera app that uses the same image processing techniques as his ‘ Knives Out ‘ films. Here are the details. more…",
-   "source": "9to5Mac",
-   "category": "general",
-   "published": "2026-10-30T20:44:08+00:00"
-  },
-  {
-   "id": "65d255a74525f3ca",
-   "title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
-   "url": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
-   "summary": "People who love AI don't always love telling others they used it.",
-   "source": "Ars Technica",
-   "category": "general",
-   "published": "2026-10-30T20:40:13+00:00"
-  },
-  {
-   "id": "7ac37fbfa59f71fb",
-   "title": "A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices",
-   "url": "https://www.wired.com/story/trojan-malware-targets-thousands-of-anthropic-claude-developer-systems/",
-   "summary": "Thanks to a lucky break, flawed code in a tainted Claude extension prevented the attacker from fully worming their way into some 5,000 developer machines.",
-   "source": "Wired",
-   "category": "general",
-   "published": "2026-10-30T20:38:46+00:00"
-  },
-  {
-   "id": "25a528e218b1080c",
-   "title": "The biggest names in AI are backing a new way to opt out of scraping",
-   "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
-   "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI…",
-   "source": "The Verge",
-   "category": "general",
-   "published": "2026-10-30T20:26:10+00:00"
-  },
-  {
-   "id": "a222d0a212be4059",
-   "title": "Over 25% of people lie to get antibiotics—and their lies aren't even good",
-   "url": "https://arstechnica.com/health/2026/10/over-25-of-people-lie-to-get-antibiotics-and-their-lies-arent-even-good/",
-   "summary": "Faked symptoms still point to infections that antibiotics don't treat.",
-   "source": "Ars Technica",
-   "category": "general",
-   "published": "2026-10-30T20:17:50+00:00"
-  },
-  {
-   "id": "9efb14df808857a7",
-   "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
-   "url": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
-   "summary": "Like a real-life episode of \"Suits,\" the demise of famed white-shoe Wall Street law firm Weil, Gotshal & Manges has been the talk of the legal industry. And now an AI firm has entered the picture.",
-   "source": "TechCrunch",
-   "category": "general",
-   "published": "2026-10-30T19:55:13+00:00"
-  },
-  {
-   "id": "b18ed8fdf2c4d434",
-   "title": "The oldest ice disappears and the Stone Age emerges from it",
-   "url": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
-   "summary": "Article URL: https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921 Comments URL: https://news.ycombinator.com/item?id=50309266 Points: 184 # Comments: 86",
-   "source": "Hacker News",
-   "category": "general",
-   "published": "2026-10-30T19:51:33+00:00"
-  },
-  {
-   "id": "c4eb3e3c530bfbce",
-   "title": "The 12th Google Store is opening on November 6",
-   "url": "https://9to5google.com/2026/10/30/google-store-houston/",
-   "summary": "Following San Diego and Tokyo in 2026, the next Google Store is opening in Houston on November 6. This is the company’s 11th retail location in the US and 12th globally. more…",
-   "source": "9to5Google",
-   "category": "general",
-   "published": "2026-10-30T19:37:58+00:00"
-  },
-  {
-   "id": "538ea1326a6a8ff9",
-   "title": "Basically no one is using AI agents for their DoorDash orders",
-   "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
-   "summary": "But it's still early days for the relatively new e-commerce use case.",
-   "source": "Ars Technica",
-   "category": "general",
-   "published": "2026-10-30T19:30:52+00:00"
-  },
-  {
-   "id": "09b9979bcf8f2a3a",
-   "title": "iOS 27.2 adds two FaceTime features, including a personal favorite",
-   "url": "https://9to5mac.com/2026/10/30/ios-27-2-adds-two-facetime-features-including-a-personal-favorite/",
-   "summary": "iOS 27.2 adds new features to Messages , Podcasts , Photos , and more—including some easy-to-miss upgrades to FaceTime. Here’s what’s new. more…",
-   "source": "9to5Mac",
-   "category": "general",
-   "published": "2026-10-30T19:22:05+00:00"
   }
  ]
 }
